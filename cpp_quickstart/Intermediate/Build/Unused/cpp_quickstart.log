@@ -1,0 +1,15 @@
+﻿  Using 'git status' to determine working set for adaptive non-unity build.
+  Creating makefile for hot reloading cpp_quickstartEditor (modules to compile have changed)
+  Compiling game modules for hot reload
+  Parsing headers for cpp_quickstartEditor
+    Running UnrealHeaderTool "C:\Users\tugan.eritenel\Documents\git\learning_unreal\cpp_quickstart\cpp_quickstart.uproject" "C:\Users\tugan.eritenel\Documents\git\learning_unreal\cpp_quickstart\Intermediate\Build\Win64\cpp_quickstartEditor\Development\cpp_quickstartEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+  Reflection code generated for cpp_quickstartEditor in 7.436363 seconds
+  Performing 4 actions (4 in parallel)
+  FloatingActor.cpp
+  FloatingActor.gen.cpp
+  [3/4] Link UE4Editor-cpp_quickstart-8298.dll
+  [4/4] Link UE4Editor-cpp_quickstart-8298.lib
+     Creating library C:\Users\tugan.eritenel\Documents\git\learning_unreal\cpp_quickstart\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-cpp_quickstart-8298.lib and object C:\Users\tugan.eritenel\Documents\git\learning_unreal\cpp_quickstart\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-cpp_quickstart-8298.exp
+     Creating library C:\Users\tugan.eritenel\Documents\git\learning_unreal\cpp_quickstart\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-cpp_quickstart-8298.suppressed.lib and object C:\Users\tugan.eritenel\Documents\git\learning_unreal\cpp_quickstart\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-cpp_quickstart-8298.suppressed.exp
+  Deploying cpp_quickstartEditor Win64 Development...
+  Total build time: 13.75 seconds (Local executor: 1.12 seconds)

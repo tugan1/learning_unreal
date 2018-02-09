@@ -1,0 +1,1290 @@
+﻿Log file open, 02/09/18 08:48:50
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: cpp_quickstart
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-1519691341) SRandInit(-1519691341).
+LogInit: Read version file with build ID '3709383'
+LogInit: Overriding engine version to CL 3832480, compatible CL 3709383
+LogInit: Registered custom module enumerator with build ID '3709383'
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.176465
+LogD3D11RHI: Aftermath initialized
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogModuleManager: Display: Found up-to-date module file ../../../../../../Users/tugan.eritenel/Documents/git/learning_unreal/cpp_quickstart/Binaries/Win64/UE4Editor-cpp_quickstart.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.18-CL-3832480
+LogInit: Engine Version: 4.18.3-3832480+++UE4+Release-4.18
+LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Net CL: 3709383
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 30
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 20
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 12
+LogInit: Compiled (64-bit): Jan 12 2018 02:04:55
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.18
+LogInit: Command line: -EpicPortal 
+LogInit: Base directory: C:/Program Files/Epic Games/UE_4.18/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.02.09-05.48.52:781][  0]LogInit: Selected Device Profile: [Windows]
+[2018.02.09-05.48.52:781][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.02.09-05.48.52:794][  0]LogInit: Computer: P5520
+[2018.02.09-05.48.52:794][  0]LogInit: User: tuganeritenel
+[2018.02.09-05.48.52:794][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.02.09-05.48.52:794][  0]LogInit: High frequency timer resolution =2.742187 MHz
+[2018.02.09-05.48.52:795][  0]LogMemory: Memory total: Physical=31.9GB (32GB approx)
+[2018.02.09-05.48.52:795][  0]LogMemory: Platform Memory Stats for Windows
+[2018.02.09-05.48.52:795][  0]LogMemory: Process Physical Memory: 273.54 MB used, 273.54 MB peak
+[2018.02.09-05.48.52:795][  0]LogMemory: Process Virtual Memory: 263.70 MB used, 263.70 MB peak
+[2018.02.09-05.48.52:795][  0]LogMemory: Physical Memory: 6020.17 MB used,  26604.00 MB free, 32624.18 MB total
+[2018.02.09-05.48.52:795][  0]LogMemory: Virtual Memory: 675.96 MB used,  26604.00 MB free, 134217728.00 MB total
+[2018.02.09-05.48.52:943][  0]LogInit: Using OS detected language (en-US).
+[2018.02.09-05.48.52:943][  0]LogInit: Using OS detected locale (en-US).
+[2018.02.09-05.48.52:947][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.02.09-05.48.53:358][  0]LogInit: Setting process to per monitor DPI aware
+[2018.02.09-05.48.53:574][  0]LogD3D11RHI: D3D11 adapters:
+[2018.02.09-05.48.53:582][  0]LogD3D11RHI:    0. 'Intel(R) HD Graphics 630' (Feature Level 11_0)
+[2018.02.09-05.48.53:582][  0]LogD3D11RHI:       128/0/16312 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x8086
+[2018.02.09-05.48.53:584][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.02.09-05.48.53:584][  0]LogD3D11RHI:       0/0/16312 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.02.09-05.48.53:584][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.02.09-05.48.53:590][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.02.09-05.48.53:590][  0]LogD3D11RHI:     GPU DeviceId: 0x591b (for the marketing name, search the web for "GPU Device Id")
+[2018.02.09-05.48.53:590][  0]LogWindows: EnumDisplayDevices:
+[2018.02.09-05.48.53:590][  0]LogWindows:    0. 'Intel(R) HD Graphics 630' (P:1 D:1)
+[2018.02.09-05.48.53:590][  0]LogWindows:    1. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2018.02.09-05.48.53:590][  0]LogWindows:    2. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2018.02.09-05.48.53:590][  0]LogWindows:    3. 'Mirage Driver' (P:0 D:0)
+[2018.02.09-05.48.53:590][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.02.09-05.48.53:590][  0]LogD3D11RHI:     Adapter Name: Intel(R) HD Graphics 630
+[2018.02.09-05.48.53:590][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.02.09-05.48.53:590][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.02.09-05.48.53:590][  0]LogRHI: Texture pool is 1523 MB (70% of 2176 MB)
+[2018.02.09-05.48.53:597][  0]LogD3D11RHI: Async texture creation enabled
+[2018.02.09-05.48.53:601][  0]LogD3D11RHI: GPU Timing Frequency: 12.000000 (Debug: 2 0)
+[2018.02.09-05.48.53:602][  0]LogShaderCompilers: Guid format shader working directory is -29 characters bigger than the processId version (../../../../../../Users/tugan.eritenel/Documents/git/learning_unreal/cpp_quickstart/Intermediate/Shaders/WorkingDirectory/12844/).
+[2018.02.09-05.48.53:603][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/tugan.eritenel/AppData/Local/Temp/UnrealShaderWorkingDir/C44E5C99499BD04920B7B388B7FD9904/'.
+[2018.02.09-05.48.53:603][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.02.09-05.48.54:466][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.02.09-05.48.54:515][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.02.09-05.48.54:563][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.02.09-05.48.54:613][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.02.09-05.48.54:663][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.02.09-05.48.54:713][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.02.09-05.48.54:765][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.02.09-05.48.54:819][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.02.09-05.48.54:866][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.02.09-05.48.54:918][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.02.09-05.48.54:973][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.02.09-05.48.55:022][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.02.09-05.48.55:072][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.02.09-05.48.55:124][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.02.09-05.48.55:225][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.02.09-05.48.55:225][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.02.09-05.48.55:276][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.02.09-05.48.55:317][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.02.09-05.48.55:405][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.02.09-05.48.55:431][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.02.09-05.48.55:478][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.02.09-05.48.55:526][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.02.09-05.48.55:573][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.02.09-05.48.55:622][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.02.09-05.48.55:622][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.02.09-05.48.56:101][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.02.09-05.48.56:173][  0]LogDerivedDataCache: Loaded boot cache 0.07s 78MB C:/Users/tugan.eritenel/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.02.09-05.48.56:173][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/tugan.eritenel/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2018.02.09-05.48.56:173][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/tugan.eritenel/Documents/git/learning_unreal/cpp_quickstart/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.02.09-05.48.56:173][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.02.09-05.48.56:173][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/tugan.eritenel/Documents/git/learning_unreal/cpp_quickstart/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.02.09-05.48.56:173][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.02.09-05.48.56:188][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.02.09-05.48.56:200][  0]LogDerivedDataCache: Using Local data cache path C:/Users/tugan.eritenel/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.02.09-05.48.56:210][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.02.09-05.48.56:210][  0]LogSlate: Using Freetype 2.6.0
+[2018.02.09-05.48.56:210][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.02.09-05.48.56:211][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.02.09-05.48.56:604][  0]LogInit: Selected Device Profile: [Windows]
+[2018.02.09-05.48.56:951][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.02.09-05.48.56:993][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.02.09-05.48.56:994][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.02.09-05.48.56:994][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.02.09-05.48.56:994][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.02.09-05.48.56:994][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.02.09-05.48.57:030][  0]LogNetVersion: cpp_quickstart , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 1614460579)
+[2018.02.09-05.48.57:232][  0]LogAssetRegistry: FAssetRegistry took 0.0258 seconds to start up
+[2018.02.09-05.48.57:767][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 2 prioritized culture(s) in 0.056993 seconds
+[2018.02.09-05.48.57:773][  0]LogUObjectArray: 35870 objects as part of root set at end of initial load.
+[2018.02.09-05.48.57:773][  0]LogUObjectAllocator: 7363696 out of 0 bytes used by permanent object pool.
+[2018.02.09-05.48.57:773][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.02.09-05.48.57:829][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2018.02.09-05.49.00:506][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.02.09-05.49.00:555][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.02.09-05.49.01:271][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2018.02.09-05.49.01:679][  0]SourceControl: Source control is disabled
+[2018.02.09-05.49.01:679][  0]SourceControl: Source control is disabled
+[2018.02.09-05.49.01:733][  0]SourceControl: Source control is disabled
+[2018.02.09-05.49.01:785][  0]SourceControl: Source control is disabled
+[2018.02.09-05.49.02:627][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.02.09-05.49.02:887][  0]LogOcInput: OculusInput pre-init called
+[2018.02.09-05.49.03:152][  0]LogEngine: Initializing Engine...
+[2018.02.09-05.49.03:154][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.02.09-05.49.03:343][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.02.09-05.49.03:343][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.02.09-05.49.03:466][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.02.09-05.49.03:483][  0]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.09-05.49.04:349][  0]LogInit: FAudioDevice initialized.
+[2018.02.09-05.49.04:402][  0]LogDerivedDataCache: Saved boot cache 0.05s 78MB C:/Users/tugan.eritenel/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.02.09-05.49.04:412][  0]LogInit: Texture streaming: Enabled
+[2018.02.09-05.49.04:516][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.02.09-05.49.04:645][  0]LogInit: Transaction tracking system initialized
+[2018.02.09-05.49.04:971][  0]BlueprintLog: New page: Editor Load
+[2018.02.09-05.49.05:921][  0]LocalizationService: Localization service is disabled
+[2018.02.09-05.49.06:659][  0]LogConsoleResponse: Display: 
+[2018.02.09-05.49.06:831][  0]LogFileCache: Scanning file cache for directory 'C:/Users/tugan.eritenel/Documents/git/learning_unreal/cpp_quickstart/Content/' took 0.01s
+[2018.02.09-05.49.06:831][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.02.09-05.49.06:831][  0]LogCook: Display: Mobile HDR setting 1
+[2018.02.09-05.49.06:831][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.02.09-05.49.08:061][  0]SourceControl: Source control is disabled
+[2018.02.09-05.49.08:062][  0]LogFactory: FactoryCreateFile: PackFactory with PackFactory (0 0 C:/Program Files/Epic Games/UE_4.18/FeaturePacks/StarterContent.upack)
+[2018.02.09-05.49.08:067][  0]LogPackFactory: Finished extracting 8 files (including 0 errors).
+[2018.02.09-05.49.08:074][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Floor_400x400.uasset" to "../../../../../../Users/tugan.eritenel/Documents/git/learning_unreal/cpp_quickstart/Content/StarterContent/Architecture/Floor_400x400.uasset"
+[2018.02.09-05.49.08:078][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Pillar_50x500.uasset" to "../../../../../../Users/tugan.eritenel/Documents/git/learning_unreal/cpp_quickstart/Content/StarterContent/Architecture/Pillar_50x500.uasset"
+[2018.02.09-05.49.08:083][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/SM_AssetPlatform.uasset" to "../../../../../../Users/tugan.eritenel/Documents/git/learning_unreal/cpp_quickstart/Content/StarterContent/Architecture/SM_AssetPlatform.uasset"
+[2018.02.09-05.49.08:088][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x200.uasset" to "../../../../../../Users/tugan.eritenel/Documents/git/learning_unreal/cpp_quickstart/Content/StarterContent/Architecture/Wall_400x200.uasset"
+[2018.02.09-05.49.08:092][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x300.uasset" to "../../../../../../Users/tugan.eritenel/Documents/git/learning_unreal/cpp_quickstart/Content/StarterContent/Architecture/Wall_400x300.uasset"
+[2018.02.09-05.49.08:096][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x400.uasset" to "../../../../../../Users/tugan.eritenel/Documents/git/learning_unreal/cpp_quickstart/Content/StarterContent/Architecture/Wall_400x400.uasset"
+[2018.02.09-05.49.08:100][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_500x500.uasset" to "../../../../../../Users/tugan.eritenel/Documents/git/learning_unreal/cpp_quickstart/Content/StarterContent/Architecture/Wall_500x500.uasset"
+[2018.02.09-05.49.08:106][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x300.uasset" to "../../../../../../Users/tugan.eritenel/Documents/git/learning_unreal/cpp_quickstart/Content/StarterContent/Architecture/Wall_Door_400x300.uasset"
+[2018.02.09-05.49.08:110][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x400.uasset" to "../../../../../../Users/tugan.eritenel/Documents/git/learning_unreal/cpp_quickstart/Content/StarterContent/Architecture/Wall_Door_400x400.uasset"
+[2018.02.09-05.49.08:114][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x300.uasset" to "../../../../../../Users/tugan.eritenel/Documents/git/learning_unreal/cpp_quickstart/Content/StarterContent/Architecture/Wall_Window_400x300.uasset"
+[2018.02.09-05.49.08:118][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x400.uasset" to "../../../../../../Users/tugan.eritenel/Documents/git/learning_unreal/cpp_quickstart/Content/StarterContent/Architecture/Wall_Window_400x400.uasset"
+[2018.02.09-05.49.08:123][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse01.uasset" to "../../../../../../Users/tugan.eritenel/Documents/git/learning_unreal/cpp_quickstart/Content/StarterContent/Audio/Collapse01.uasset"
+[2018.02.09-05.49.08:127][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse02.uasset" to "../../../../../../Users/tugan.eritenel/Documents/git/learning_unreal/cpp_quickstart/Content/StarterContent/Audio/Collapse02.uasset"
+[2018.02.09-05.49.08:129][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse_Cue.uasset" to "../../../../../../Users/tugan.eritenel/Documents/git/learning_unreal/cpp_quickstart/Content/StarterContent/Audio/Collapse_Cue.uasset"
+[2018.02.09-05.49.08:133][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion01.uasset" to "../../../../../../Users/tugan.eritenel/Documents/git/learning_unreal/cpp_quickstart/Content/StarterContent/Audio/Explosion01.uasset"
+[2018.02.09-05.49.08:143][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion02.uasset" to "../../../../../../Users/tugan.eritenel/Documents/git/learning_unreal/cpp_quickstart/Content/StarterContent/Audio/Explosion02.uasset"
+[2018.02.09-05.49.08:145][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion_Cue.uasset" to "../../../../../../Users/tugan.eritenel/Documents/git/learning_unreal/cpp_quickstart/Content/StarterContent/Audio/Explosion_Cue.uasset"
+[2018.02.09-05.49.08:149][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01.uasset" to "../../../../../../Users/tugan.eritenel/Documents/git/learning_unreal/cpp_quickstart/Content/StarterContent/Audio/Fire01.uasset"
+[2018.02.09-05.49.08:152][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01_Cue.uasset" to "../../../../../../Users/tugan.eritenel/Documents/git/learning_unreal/cpp_quickstart/Content/StarterContent/Audio/Fire01_Cue.uasset"
+[2018.02.09-05.49.08:157][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01.uasset" to "../../../../../../Users/tugan.eritenel/Documents/git/learning_unreal/cpp_quickstart/Content/StarterContent/Audio/Fire_Sparks01.uasset"
+[2018.02.09-05.49.08:161][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset" to "../../../../../../Users/tugan.eritenel/Documents/git/learning_unreal/cpp_quickstart/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset"
+[2018.02.09-05.49.08:165][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01.uasset" to "../../../../../../Users/tugan.eritenel/Documents/git/learning_unreal/cpp_quickstart/Content/StarterContent/Audio/Light01.uasset"
+[2018.02.09-05.49.08:170][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01_Cue.uasset" to "../../../../../../Users/tugan.eritenel/Documents/git/learning_unreal/cpp_quickstart/Content/StarterContent/Audio/Light01_Cue.uasset"
+[2018.02.09-05.49.08:175][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02.uasset" to "../../../../../../Users/tugan.eritenel/Documents/git/learning_unreal/cpp_quickstart/Content/StarterContent/Audio/Light02.uasset"
+[2018.02.09-05.49.08:179][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02_Cue.uasset" to "../../../../../../Users/tugan.eritenel/Documents/git/learning_unreal/cpp_quickstart/Content/StarterContent/Audio/Light02_Cue.uasset"
+[2018.02.09-05.49.08:183][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01.uasset" to "../../../../../../Users/tugan.eritenel/Documents/git/learning_unreal/cpp_quickstart/Content/StarterContent/Audio/Smoke01.uasset"
+[2018.02.09-05.49.08:185][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01_Cue.uasset" to "../../../../../../Users/tugan.eritenel/Documents/git/learning_unreal/cpp_quickstart/Content/StarterContent/Audio/Smoke01_Cue.uasset"
+[2018.02.09-05.49.08:191][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Background_Cue.uasset" to "../../../../../../Users/tugan.eritenel/Documents/git/learning_unreal/cpp_quickstart/Content/StarterContent/Audio/Starter_Background_Cue.uasset"
+[2018.02.09-05.49.08:198][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Birds01.uasset" to "../../../../../../Users/tugan.eritenel/Documents/git/learning_unreal/cpp_quickstart/Content/StarterContent/Audio/Starter_Birds01.uasset"
+[2018.02.09-05.49.08:207][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music01.uasset" to "../../../../../../Users/tugan.eritenel/Documents/git/learning_unreal/cpp_quickstart/Content/StarterContent/Audio/Starter_Music01.uasset"
+[2018.02.09-05.49.08:209][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music_Cue.uasset" to "../../../../../../Users/tugan.eritenel/Documents/git/learning_unreal/cpp_quickstart/Content/StarterContent/Audio/Starter_Music_Cue.uasset"
+[2018.02.09-05.49.08:215][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind05.uasset" to "../../../../../../Users/tugan.eritenel/Documents/git/learning_unreal/cpp_quickstart/Content/StarterContent/Audio/Starter_Wind05.uasset"
+[2018.02.09-05.49.08:221][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind06.uasset" to "../../../../../../Users/tugan.eritenel/Documents/git/learning_unreal/cpp_quickstart/Content/StarterContent/Audio/Starter_Wind06.uasset"
+[2018.02.09-05.49.08:226][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01.uasset" to "../../../../../../Users/tugan.eritenel/Documents/git/learning_unreal/cpp_quickstart/Content/StarterContent/Audio/Steam01.uasset"
+[2018.02.09-05.49.08:230][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01_Cue.uasset" to "../../../../../../Users/tugan.eritenel/Documents/git/learning_unreal/cpp_quickstart/Content/StarterContent/Audio/Steam01_Cue.uasset"
+[2018.02.09-05.49.08:235][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset" to "../../../../../../Users/tugan.eritenel/Documents/git/learning_unreal/cpp_quickstart/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset"
+[2018.02.09-05.49.08:239][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset" to "../../../../../../Users/tugan.eritenel/Documents/git/learning_unreal/cpp_quickstart/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset"
+[2018.02.09-05.49.08:244][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset" to "../../../../../../Users/tugan.eritenel/Documents/git/learning_unreal/cpp_quickstart/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset"
+[2018.02.09-05.49.08:248][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset" to "../../../../../../Users/tugan.eritenel/Documents/git/learning_unreal/cpp_quickstart/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset"
+[2018.02.09-05.49.08:254][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset" to "../../../../../../Users/tugan.eritenel/Documents/git/learning_unreal/cpp_quickstart/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset"
+[2018.02.09-05.49.08:265][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset" to "../../../../../../Users/tugan.eritenel/Documents/git/learning_unreal/cpp_quickstart/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset"
+[2018.02.09-05.49.08:270][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset" to "../../../../../../Users/tugan.eritenel/Documents/git/learning_unreal/cpp_quickstart/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset"
+[2018.02.09-05.49.08:275][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/BP_LightStudio.uasset" to "../../../../../../Users/tugan.eritenel/Documents/git/learning_unreal/cpp_quickstart/Content/StarterContent/Blueprints/BP_LightStudio.uasset"
+[2018.02.09-05.49.08:277][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset" to "../../../../../../Users/tugan.eritenel/Documents/git/learning_unreal/cpp_quickstart/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset"
+[2018.02.09-05.49.08:281][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset" to "../../../../../../Users/tugan.eritenel/Documents/git/learning_unreal/cpp_quickstart/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset"
+[2018.02.09-05.49.08:286][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset" to "../../../../../../Users/tugan.eritenel/Documents/git/learning_unreal/cpp_quickstart/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset"
+[2018.02.09-05.49.08:290][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset" to "../../../../../../Users/tugan.eritenel/Documents/git/learning_unreal/cpp_quickstart/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset"
+[2018.02.09-05.49.08:294][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset" to "../../../../../../Users/tugan.eritenel/Documents/git/learning_unreal/cpp_quickstart/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset"
+[2018.02.09-05.49.08:299][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/Skybox.uasset" to "../../../../../../Users/tugan.eritenel/Documents/git/learning_unreal/cpp_quickstart/Content/StarterContent/Blueprints/Assets/Skybox.uasset"
+[2018.02.09-05.49.08:310][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset" to "../../../../../../Users/tugan.eritenel/Documents/git/learning_unreal/cpp_quickstart/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset"
+[2018.02.09-05.49.08:311][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset" to "../../../../../../Users/tugan.eritenel/Documents/git/learning_unreal/cpp_quickstart/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset"
+[2018.02.09-05.49.08:354][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset" to "../../../../../../Users/tugan.eritenel/Documents/git/learning_unreal/cpp_quickstart/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
+[2018.02.09-05.49.08:358][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting.umap" to "../../../../../../Users/tugan.eritenel/Documents/git/learning_unreal/cpp_quickstart/Content/StarterContent/Maps/Advanced_Lighting.umap"
+[2018.02.09-05.49.08:363][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset" to "../../../../../../Users/tugan.eritenel/Documents/git/learning_unreal/cpp_quickstart/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset"
+[2018.02.09-05.49.08:368][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default.umap" to "../../../../../../Users/tugan.eritenel/Documents/git/learning_unreal/cpp_quickstart/Content/StarterContent/Maps/Minimal_Default.umap"
+[2018.02.09-05.49.08:373][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" to "../../../../../../Users/tugan.eritenel/Documents/git/learning_unreal/cpp_quickstart/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset"
+[2018.02.09-05.49.08:380][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap.umap" to "../../../../../../Users/tugan.eritenel/Documents/git/learning_unreal/cpp_quickstart/Content/StarterContent/Maps/StarterMap.umap"
+[2018.02.09-05.49.08:390][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap_BuiltData.uasset" to "../../../../../../Users/tugan.eritenel/Documents/git/learning_unreal/cpp_quickstart/Content/StarterContent/Maps/StarterMap_BuiltData.uasset"
+[2018.02.09-05.49.08:395][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_AssetPlatform.uasset" to "../../../../../../Users/tugan.eritenel/Documents/git/learning_unreal/cpp_quickstart/Content/StarterContent/Materials/M_AssetPlatform.uasset"
+[2018.02.09-05.49.08:399][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Floor.uasset" to "../../../../../../Users/tugan.eritenel/Documents/git/learning_unreal/cpp_quickstart/Content/StarterContent/Materials/M_Basic_Floor.uasset"
+[2018.02.09-05.49.08:403][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Wall.uasset" to "../../../../../../Users/tugan.eritenel/Documents/git/learning_unreal/cpp_quickstart/Content/StarterContent/Materials/M_Basic_Wall.uasset"
+[2018.02.09-05.49.08:408][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset" to "../../../../../../Users/tugan.eritenel/Documents/git/learning_unreal/cpp_quickstart/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset"
+[2018.02.09-05.49.08:412][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_New.uasset" to "../../../../../../Users/tugan.eritenel/Documents/git/learning_unreal/cpp_quickstart/Content/StarterContent/Materials/M_Brick_Clay_New.uasset"
+[2018.02.09-05.49.08:416][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset" to "../../../../../../Users/tugan.eritenel/Documents/git/learning_unreal/cpp_quickstart/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset"
+[2018.02.09-05.49.08:420][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset" to "../../../../../../Users/tugan.eritenel/Documents/git/learning_unreal/cpp_quickstart/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset"
+[2018.02.09-05.49.08:424][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset" to "../../../../../../Users/tugan.eritenel/Documents/git/learning_unreal/cpp_quickstart/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset"
+[2018.02.09-05.49.08:432][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset" to "../../../../../../Users/tugan.eritenel/Documents/git/learning_unreal/cpp_quickstart/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset"
+[2018.02.09-05.49.08:436][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset" to "../../../../../../Users/tugan.eritenel/Documents/git/learning_unreal/cpp_quickstart/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset"
+[2018.02.09-05.49.08:439][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset" to "../../../../../../Users/tugan.eritenel/Documents/git/learning_unreal/cpp_quickstart/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset"
+[2018.02.09-05.49.08:444][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset" to "../../../../../../Users/tugan.eritenel/Documents/git/learning_unreal/cpp_quickstart/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset"
+[2018.02.09-05.49.08:448][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset" to "../../../../../../Users/tugan.eritenel/Documents/git/learning_unreal/cpp_quickstart/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset"
+[2018.02.09-05.49.08:453][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Grime.uasset" to "../../../../../../Users/tugan.eritenel/Documents/git/learning_unreal/cpp_quickstart/Content/StarterContent/Materials/M_Concrete_Grime.uasset"
+[2018.02.09-05.49.08:457][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Panels.uasset" to "../../../../../../Users/tugan.eritenel/Documents/git/learning_unreal/cpp_quickstart/Content/StarterContent/Materials/M_Concrete_Panels.uasset"
+[2018.02.09-05.49.08:461][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Poured.uasset" to "../../../../../../Users/tugan.eritenel/Documents/git/learning_unreal/cpp_quickstart/Content/StarterContent/Materials/M_Concrete_Poured.uasset"
+[2018.02.09-05.49.08:465][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Tiles.uasset" to "../../../../../../Users/tugan.eritenel/Documents/git/learning_unreal/cpp_quickstart/Content/StarterContent/Materials/M_Concrete_Tiles.uasset"
+[2018.02.09-05.49.08:469][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Glass.uasset" to "../../../../../../Users/tugan.eritenel/Documents/git/learning_unreal/cpp_quickstart/Content/StarterContent/Materials/M_Glass.uasset"
+[2018.02.09-05.49.08:473][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Grass.uasset" to "../../../../../../Users/tugan.eritenel/Documents/git/learning_unreal/cpp_quickstart/Content/StarterContent/Materials/M_Ground_Grass.uasset"
+[2018.02.09-05.49.08:478][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Gravel.uasset" to "../../../../../../Users/tugan.eritenel/Documents/git/learning_unreal/cpp_quickstart/Content/StarterContent/Materials/M_Ground_Gravel.uasset"
+[2018.02.09-05.49.08:482][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Moss.uasset" to "../../../../../../Users/tugan.eritenel/Documents/git/learning_unreal/cpp_quickstart/Content/StarterContent/Materials/M_Ground_Moss.uasset"
+[2018.02.09-05.49.08:486][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset" to "../../../../../../Users/tugan.eritenel/Documents/git/learning_unreal/cpp_quickstart/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset"
+[2018.02.09-05.49.08:490][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset" to "../../../../../../Users/tugan.eritenel/Documents/git/learning_unreal/cpp_quickstart/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset"
+[2018.02.09-05.49.08:495][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Chrome.uasset" to "../../../../../../Users/tugan.eritenel/Documents/git/learning_unreal/cpp_quickstart/Content/StarterContent/Materials/M_Metal_Chrome.uasset"
+[2018.02.09-05.49.08:498][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Copper.uasset" to "../../../../../../Users/tugan.eritenel/Documents/git/learning_unreal/cpp_quickstart/Content/StarterContent/Materials/M_Metal_Copper.uasset"
+[2018.02.09-05.49.08:503][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Gold.uasset" to "../../../../../../Users/tugan.eritenel/Documents/git/learning_unreal/cpp_quickstart/Content/StarterContent/Materials/M_Metal_Gold.uasset"
+[2018.02.09-05.49.08:507][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Rust.uasset" to "../../../../../../Users/tugan.eritenel/Documents/git/learning_unreal/cpp_quickstart/Content/StarterContent/Materials/M_Metal_Rust.uasset"
+[2018.02.09-05.49.08:511][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Steel.uasset" to "../../../../../../Users/tugan.eritenel/Documents/git/learning_unreal/cpp_quickstart/Content/StarterContent/Materials/M_Metal_Steel.uasset"
+[2018.02.09-05.49.08:515][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Basalt.uasset" to "../../../../../../Users/tugan.eritenel/Documents/git/learning_unreal/cpp_quickstart/Content/StarterContent/Materials/M_Rock_Basalt.uasset"
+[2018.02.09-05.49.08:520][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset" to "../../../../../../Users/tugan.eritenel/Documents/git/learning_unreal/cpp_quickstart/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset"
+[2018.02.09-05.49.08:524][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Sandstone.uasset" to "../../../../../../Users/tugan.eritenel/Documents/git/learning_unreal/cpp_quickstart/Content/StarterContent/Materials/M_Rock_Sandstone.uasset"
+[2018.02.09-05.49.08:528][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Slate.uasset" to "../../../../../../Users/tugan.eritenel/Documents/git/learning_unreal/cpp_quickstart/Content/StarterContent/Materials/M_Rock_Slate.uasset"
+[2018.02.09-05.49.08:532][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset" to "../../../../../../Users/tugan.eritenel/Documents/git/learning_unreal/cpp_quickstart/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset"
+[2018.02.09-05.49.08:536][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset" to "../../../../../../Users/tugan.eritenel/Documents/git/learning_unreal/cpp_quickstart/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset"
+[2018.02.09-05.49.08:540][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset" to "../../../../../../Users/tugan.eritenel/Documents/git/learning_unreal/cpp_quickstart/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset"
+[2018.02.09-05.49.08:544][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Panel.uasset" to "../../../../../../Users/tugan.eritenel/Documents/git/learning_unreal/cpp_quickstart/Content/StarterContent/Materials/M_Tech_Panel.uasset"
+[2018.02.09-05.49.08:548][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Lake.uasset" to "../../../../../../Users/tugan.eritenel/Documents/git/learning_unreal/cpp_quickstart/Content/StarterContent/Materials/M_Water_Lake.uasset"
+[2018.02.09-05.49.08:552][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Ocean.uasset" to "../../../../../../Users/tugan.eritenel/Documents/git/learning_unreal/cpp_quickstart/Content/StarterContent/Materials/M_Water_Ocean.uasset"
+[2018.02.09-05.49.08:557][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset" to "../../../../../../Users/tugan.eritenel/Documents/git/learning_unreal/cpp_quickstart/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset"
+[2018.02.09-05.49.08:561][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset" to "../../../../../../Users/tugan.eritenel/Documents/git/learning_unreal/cpp_quickstart/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset"
+[2018.02.09-05.49.08:564][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Oak.uasset" to "../../../../../../Users/tugan.eritenel/Documents/git/learning_unreal/cpp_quickstart/Content/StarterContent/Materials/M_Wood_Oak.uasset"
+[2018.02.09-05.49.08:568][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Pine.uasset" to "../../../../../../Users/tugan.eritenel/Documents/git/learning_unreal/cpp_quickstart/Content/StarterContent/Materials/M_Wood_Pine.uasset"
+[2018.02.09-05.49.08:573][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Walnut.uasset" to "../../../../../../Users/tugan.eritenel/Documents/git/learning_unreal/cpp_quickstart/Content/StarterContent/Materials/M_Wood_Walnut.uasset"
+[2018.02.09-05.49.08:577][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Ambient_Dust.uasset" to "../../../../../../Users/tugan.eritenel/Documents/git/learning_unreal/cpp_quickstart/Content/StarterContent/Particles/P_Ambient_Dust.uasset"
+[2018.02.09-05.49.08:581][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Explosion.uasset" to "../../../../../../Users/tugan.eritenel/Documents/git/learning_unreal/cpp_quickstart/Content/StarterContent/Particles/P_Explosion.uasset"
+[2018.02.09-05.49.08:586][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Fire.uasset" to "../../../../../../Users/tugan.eritenel/Documents/git/learning_unreal/cpp_quickstart/Content/StarterContent/Particles/P_Fire.uasset"
+[2018.02.09-05.49.08:591][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Smoke.uasset" to "../../../../../../Users/tugan.eritenel/Documents/git/learning_unreal/cpp_quickstart/Content/StarterContent/Particles/P_Smoke.uasset"
+[2018.02.09-05.49.08:595][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Sparks.uasset" to "../../../../../../Users/tugan.eritenel/Documents/git/learning_unreal/cpp_quickstart/Content/StarterContent/Particles/P_Sparks.uasset"
+[2018.02.09-05.49.08:602][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Steam_Lit.uasset" to "../../../../../../Users/tugan.eritenel/Documents/git/learning_unreal/cpp_quickstart/Content/StarterContent/Particles/P_Steam_Lit.uasset"
+[2018.02.09-05.49.08:606][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Burst.uasset" to "../../../../../../Users/tugan.eritenel/Documents/git/learning_unreal/cpp_quickstart/Content/StarterContent/Particles/Materials/M_Burst.uasset"
+[2018.02.09-05.49.08:610][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset" to "../../../../../../Users/tugan.eritenel/Documents/git/learning_unreal/cpp_quickstart/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset"
+[2018.02.09-05.49.08:615][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset" to "../../../../../../Users/tugan.eritenel/Documents/git/learning_unreal/cpp_quickstart/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset"
+[2018.02.09-05.49.08:620][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset" to "../../../../../../Users/tugan.eritenel/Documents/git/learning_unreal/cpp_quickstart/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset"
+[2018.02.09-05.49.08:625][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/m_flare_01.uasset" to "../../../../../../Users/tugan.eritenel/Documents/git/learning_unreal/cpp_quickstart/Content/StarterContent/Particles/Materials/m_flare_01.uasset"
+[2018.02.09-05.49.08:629][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset" to "../../../../../../Users/tugan.eritenel/Documents/git/learning_unreal/cpp_quickstart/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset"
+[2018.02.09-05.49.08:634][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset" to "../../../../../../Users/tugan.eritenel/Documents/git/learning_unreal/cpp_quickstart/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset"
+[2018.02.09-05.49.08:638][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset" to "../../../../../../Users/tugan.eritenel/Documents/git/learning_unreal/cpp_quickstart/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset"
+[2018.02.09-05.49.08:643][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset" to "../../../../../../Users/tugan.eritenel/Documents/git/learning_unreal/cpp_quickstart/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset"
+[2018.02.09-05.49.08:647][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Spark.uasset" to "../../../../../../Users/tugan.eritenel/Documents/git/learning_unreal/cpp_quickstart/Content/StarterContent/Particles/Materials/M_Spark.uasset"
+[2018.02.09-05.49.08:651][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/MaterialSphere.uasset" to "../../../../../../Users/tugan.eritenel/Documents/git/learning_unreal/cpp_quickstart/Content/StarterContent/Props/MaterialSphere.uasset"
+[2018.02.09-05.49.08:658][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Bush.uasset" to "../../../../../../Users/tugan.eritenel/Documents/git/learning_unreal/cpp_quickstart/Content/StarterContent/Props/SM_Bush.uasset"
+[2018.02.09-05.49.08:663][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Chair.uasset" to "../../../../../../Users/tugan.eritenel/Documents/git/learning_unreal/cpp_quickstart/Content/StarterContent/Props/SM_Chair.uasset"
+[2018.02.09-05.49.08:667][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_CornerFrame.uasset" to "../../../../../../Users/tugan.eritenel/Documents/git/learning_unreal/cpp_quickstart/Content/StarterContent/Props/SM_CornerFrame.uasset"
+[2018.02.09-05.49.08:671][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Couch.uasset" to "../../../../../../Users/tugan.eritenel/Documents/git/learning_unreal/cpp_quickstart/Content/StarterContent/Props/SM_Couch.uasset"
+[2018.02.09-05.49.08:675][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Door.uasset" to "../../../../../../Users/tugan.eritenel/Documents/git/learning_unreal/cpp_quickstart/Content/StarterContent/Props/SM_Door.uasset"
+[2018.02.09-05.49.08:680][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_DoorFrame.uasset" to "../../../../../../Users/tugan.eritenel/Documents/git/learning_unreal/cpp_quickstart/Content/StarterContent/Props/SM_DoorFrame.uasset"
+[2018.02.09-05.49.08:686][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_GlassWindow.uasset" to "../../../../../../Users/tugan.eritenel/Documents/git/learning_unreal/cpp_quickstart/Content/StarterContent/Props/SM_GlassWindow.uasset"
+[2018.02.09-05.49.08:690][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset" to "../../../../../../Users/tugan.eritenel/Documents/git/learning_unreal/cpp_quickstart/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset"
+[2018.02.09-05.49.08:695][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Wall.uasset" to "../../../../../../Users/tugan.eritenel/Documents/git/learning_unreal/cpp_quickstart/Content/StarterContent/Props/SM_Lamp_Wall.uasset"
+[2018.02.09-05.49.08:700][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset" to "../../../../../../Users/tugan.eritenel/Documents/git/learning_unreal/cpp_quickstart/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset"
+[2018.02.09-05.49.08:704][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame.uasset" to "../../../../../../Users/tugan.eritenel/Documents/git/learning_unreal/cpp_quickstart/Content/StarterContent/Props/SM_PillarFrame.uasset"
+[2018.02.09-05.49.08:711][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame300.uasset" to "../../../../../../Users/tugan.eritenel/Documents/git/learning_unreal/cpp_quickstart/Content/StarterContent/Props/SM_PillarFrame300.uasset"
+[2018.02.09-05.49.08:715][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Rock.uasset" to "../../../../../../Users/tugan.eritenel/Documents/git/learning_unreal/cpp_quickstart/Content/StarterContent/Props/SM_Rock.uasset"
+[2018.02.09-05.49.08:720][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Shelf.uasset" to "../../../../../../Users/tugan.eritenel/Documents/git/learning_unreal/cpp_quickstart/Content/StarterContent/Props/SM_Shelf.uasset"
+[2018.02.09-05.49.08:724][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Stairs.uasset" to "../../../../../../Users/tugan.eritenel/Documents/git/learning_unreal/cpp_quickstart/Content/StarterContent/Props/SM_Stairs.uasset"
+[2018.02.09-05.49.08:729][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Statue.uasset" to "../../../../../../Users/tugan.eritenel/Documents/git/learning_unreal/cpp_quickstart/Content/StarterContent/Props/SM_Statue.uasset"
+[2018.02.09-05.49.08:748][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_TableRound.uasset" to "../../../../../../Users/tugan.eritenel/Documents/git/learning_unreal/cpp_quickstart/Content/StarterContent/Props/SM_TableRound.uasset"
+[2018.02.09-05.49.08:752][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_WindowFrame.uasset" to "../../../../../../Users/tugan.eritenel/Documents/git/learning_unreal/cpp_quickstart/Content/StarterContent/Props/SM_WindowFrame.uasset"
+[2018.02.09-05.49.08:757][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Bush.uasset" to "../../../../../../Users/tugan.eritenel/Documents/git/learning_unreal/cpp_quickstart/Content/StarterContent/Props/Materials/M_Bush.uasset"
+[2018.02.09-05.49.08:762][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Chair.uasset" to "../../../../../../Users/tugan.eritenel/Documents/git/learning_unreal/cpp_quickstart/Content/StarterContent/Props/Materials/M_Chair.uasset"
+[2018.02.09-05.49.08:766][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Door.uasset" to "../../../../../../Users/tugan.eritenel/Documents/git/learning_unreal/cpp_quickstart/Content/StarterContent/Props/Materials/M_Door.uasset"
+[2018.02.09-05.49.08:770][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Frame.uasset" to "../../../../../../Users/tugan.eritenel/Documents/git/learning_unreal/cpp_quickstart/Content/StarterContent/Props/Materials/M_Frame.uasset"
+[2018.02.09-05.49.08:774][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Lamp.uasset" to "../../../../../../Users/tugan.eritenel/Documents/git/learning_unreal/cpp_quickstart/Content/StarterContent/Props/Materials/M_Lamp.uasset"
+[2018.02.09-05.49.08:779][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset" to "../../../../../../Users/tugan.eritenel/Documents/git/learning_unreal/cpp_quickstart/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset"
+[2018.02.09-05.49.08:783][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset" to "../../../../../../Users/tugan.eritenel/Documents/git/learning_unreal/cpp_quickstart/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset"
+[2018.02.09-05.49.08:788][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Rock.uasset" to "../../../../../../Users/tugan.eritenel/Documents/git/learning_unreal/cpp_quickstart/Content/StarterContent/Props/Materials/M_Rock.uasset"
+[2018.02.09-05.49.08:792][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Shelf.uasset" to "../../../../../../Users/tugan.eritenel/Documents/git/learning_unreal/cpp_quickstart/Content/StarterContent/Props/Materials/M_Shelf.uasset"
+[2018.02.09-05.49.08:798][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Statue.uasset" to "../../../../../../Users/tugan.eritenel/Documents/git/learning_unreal/cpp_quickstart/Content/StarterContent/Props/Materials/M_Statue.uasset"
+[2018.02.09-05.49.08:802][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_StatueGlass.uasset" to "../../../../../../Users/tugan.eritenel/Documents/git/learning_unreal/cpp_quickstart/Content/StarterContent/Props/Materials/M_StatueGlass.uasset"
+[2018.02.09-05.49.08:806][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_TableRound.uasset" to "../../../../../../Users/tugan.eritenel/Documents/git/learning_unreal/cpp_quickstart/Content/StarterContent/Props/Materials/M_TableRound.uasset"
+[2018.02.09-05.49.08:810][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cone.uasset" to "../../../../../../Users/tugan.eritenel/Documents/git/learning_unreal/cpp_quickstart/Content/StarterContent/Shapes/Shape_Cone.uasset"
+[2018.02.09-05.49.08:815][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cube.uasset" to "../../../../../../Users/tugan.eritenel/Documents/git/learning_unreal/cpp_quickstart/Content/StarterContent/Shapes/Shape_Cube.uasset"
+[2018.02.09-05.49.08:823][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cylinder.uasset" to "../../../../../../Users/tugan.eritenel/Documents/git/learning_unreal/cpp_quickstart/Content/StarterContent/Shapes/Shape_Cylinder.uasset"
+[2018.02.09-05.49.08:827][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset" to "../../../../../../Users/tugan.eritenel/Documents/git/learning_unreal/cpp_quickstart/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset"
+[2018.02.09-05.49.08:832][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe.uasset" to "../../../../../../Users/tugan.eritenel/Documents/git/learning_unreal/cpp_quickstart/Content/StarterContent/Shapes/Shape_Pipe.uasset"
+[2018.02.09-05.49.08:838][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_180.uasset" to "../../../../../../Users/tugan.eritenel/Documents/git/learning_unreal/cpp_quickstart/Content/StarterContent/Shapes/Shape_Pipe_180.uasset"
+[2018.02.09-05.49.08:843][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_90.uasset" to "../../../../../../Users/tugan.eritenel/Documents/git/learning_unreal/cpp_quickstart/Content/StarterContent/Shapes/Shape_Pipe_90.uasset"
+[2018.02.09-05.49.08:847][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Plane.uasset" to "../../../../../../Users/tugan.eritenel/Documents/git/learning_unreal/cpp_quickstart/Content/StarterContent/Shapes/Shape_Plane.uasset"
+[2018.02.09-05.49.08:851][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset" to "../../../../../../Users/tugan.eritenel/Documents/git/learning_unreal/cpp_quickstart/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset"
+[2018.02.09-05.49.08:856][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Sphere.uasset" to "../../../../../../Users/tugan.eritenel/Documents/git/learning_unreal/cpp_quickstart/Content/StarterContent/Shapes/Shape_Sphere.uasset"
+[2018.02.09-05.49.08:860][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Torus.uasset" to "../../../../../../Users/tugan.eritenel/Documents/git/learning_unreal/cpp_quickstart/Content/StarterContent/Shapes/Shape_Torus.uasset"
+[2018.02.09-05.49.08:865][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim.uasset" to "../../../../../../Users/tugan.eritenel/Documents/git/learning_unreal/cpp_quickstart/Content/StarterContent/Shapes/Shape_Trim.uasset"
+[2018.02.09-05.49.08:869][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset" to "../../../../../../Users/tugan.eritenel/Documents/git/learning_unreal/cpp_quickstart/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset"
+[2018.02.09-05.49.08:873][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset" to "../../../../../../Users/tugan.eritenel/Documents/git/learning_unreal/cpp_quickstart/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset"
+[2018.02.09-05.49.08:878][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_TriPyramid.uasset" to "../../../../../../Users/tugan.eritenel/Documents/git/learning_unreal/cpp_quickstart/Content/StarterContent/Shapes/Shape_TriPyramid.uasset"
+[2018.02.09-05.49.08:882][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Tube.uasset" to "../../../../../../Users/tugan.eritenel/Documents/git/learning_unreal/cpp_quickstart/Content/StarterContent/Shapes/Shape_Tube.uasset"
+[2018.02.09-05.49.08:886][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_A.uasset" to "../../../../../../Users/tugan.eritenel/Documents/git/learning_unreal/cpp_quickstart/Content/StarterContent/Shapes/Shape_Wedge_A.uasset"
+[2018.02.09-05.49.08:891][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_B.uasset" to "../../../../../../Users/tugan.eritenel/Documents/git/learning_unreal/cpp_quickstart/Content/StarterContent/Shapes/Shape_Wedge_B.uasset"
+[2018.02.09-05.49.08:895][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_WideCapsule.uasset" to "../../../../../../Users/tugan.eritenel/Documents/git/learning_unreal/cpp_quickstart/Content/StarterContent/Shapes/Shape_WideCapsule.uasset"
+[2018.02.09-05.49.08:904][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset" to "../../../../../../Users/tugan.eritenel/Documents/git/learning_unreal/cpp_quickstart/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset"
+[2018.02.09-05.49.08:912][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset" to "../../../../../../Users/tugan.eritenel/Documents/git/learning_unreal/cpp_quickstart/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset"
+[2018.02.09-05.49.08:921][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset" to "../../../../../../Users/tugan.eritenel/Documents/git/learning_unreal/cpp_quickstart/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset"
+[2018.02.09-05.49.08:930][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset" to "../../../../../../Users/tugan.eritenel/Documents/git/learning_unreal/cpp_quickstart/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset"
+[2018.02.09-05.49.08:941][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset" to "../../../../../../Users/tugan.eritenel/Documents/git/learning_unreal/cpp_quickstart/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset"
+[2018.02.09-05.49.08:950][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset" to "../../../../../../Users/tugan.eritenel/Documents/git/learning_unreal/cpp_quickstart/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset"
+[2018.02.09-05.49.08:960][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset" to "../../../../../../Users/tugan.eritenel/Documents/git/learning_unreal/cpp_quickstart/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset"
+[2018.02.09-05.49.08:969][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset" to "../../../../../../Users/tugan.eritenel/Documents/git/learning_unreal/cpp_quickstart/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset"
+[2018.02.09-05.49.08:985][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset" to "../../../../../../Users/tugan.eritenel/Documents/git/learning_unreal/cpp_quickstart/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset"
+[2018.02.09-05.49.08:993][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset" to "../../../../../../Users/tugan.eritenel/Documents/git/learning_unreal/cpp_quickstart/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset"
+[2018.02.09-05.49.09:001][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset" to "../../../../../../Users/tugan.eritenel/Documents/git/learning_unreal/cpp_quickstart/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset"
+[2018.02.09-05.49.09:010][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset" to "../../../../../../Users/tugan.eritenel/Documents/git/learning_unreal/cpp_quickstart/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset"
+[2018.02.09-05.49.09:020][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset" to "../../../../../../Users/tugan.eritenel/Documents/git/learning_unreal/cpp_quickstart/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset"
+[2018.02.09-05.49.09:025][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Burst_M.uasset" to "../../../../../../Users/tugan.eritenel/Documents/git/learning_unreal/cpp_quickstart/Content/StarterContent/Textures/T_Burst_M.uasset"
+[2018.02.09-05.49.09:029][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_D.uasset" to "../../../../../../Users/tugan.eritenel/Documents/git/learning_unreal/cpp_quickstart/Content/StarterContent/Textures/T_Bush_D.uasset"
+[2018.02.09-05.49.09:034][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_N.uasset" to "../../../../../../Users/tugan.eritenel/Documents/git/learning_unreal/cpp_quickstart/Content/StarterContent/Textures/T_Bush_N.uasset"
+[2018.02.09-05.49.09:039][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset" to "../../../../../../Users/tugan.eritenel/Documents/git/learning_unreal/cpp_quickstart/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset"
+[2018.02.09-05.49.09:045][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset" to "../../../../../../Users/tugan.eritenel/Documents/git/learning_unreal/cpp_quickstart/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset"
+[2018.02.09-05.49.09:050][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_M.uasset" to "../../../../../../Users/tugan.eritenel/Documents/git/learning_unreal/cpp_quickstart/Content/StarterContent/Textures/T_Chair_M.uasset"
+[2018.02.09-05.49.09:061][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_N.uasset" to "../../../../../../Users/tugan.eritenel/Documents/git/learning_unreal/cpp_quickstart/Content/StarterContent/Textures/T_Chair_N.uasset"
+[2018.02.09-05.49.09:066][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Checker_Noise_M.uasset" to "../../../../../../Users/tugan.eritenel/Documents/git/learning_unreal/cpp_quickstart/Content/StarterContent/Textures/T_Checker_Noise_M.uasset"
+[2018.02.09-05.49.09:077][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset" to "../../../../../../Users/tugan.eritenel/Documents/git/learning_unreal/cpp_quickstart/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset"
+[2018.02.09-05.49.09:082][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset" to "../../../../../../Users/tugan.eritenel/Documents/git/learning_unreal/cpp_quickstart/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset"
+[2018.02.09-05.49.09:093][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset" to "../../../../../../Users/tugan.eritenel/Documents/git/learning_unreal/cpp_quickstart/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset"
+[2018.02.09-05.49.09:100][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset" to "../../../../../../Users/tugan.eritenel/Documents/git/learning_unreal/cpp_quickstart/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset"
+[2018.02.09-05.49.09:106][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset" to "../../../../../../Users/tugan.eritenel/Documents/git/learning_unreal/cpp_quickstart/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset"
+[2018.02.09-05.49.09:133][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset" to "../../../../../../Users/tugan.eritenel/Documents/git/learning_unreal/cpp_quickstart/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset"
+[2018.02.09-05.49.09:141][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset" to "../../../../../../Users/tugan.eritenel/Documents/git/learning_unreal/cpp_quickstart/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset"
+[2018.02.09-05.49.09:149][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset" to "../../../../../../Users/tugan.eritenel/Documents/git/learning_unreal/cpp_quickstart/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset"
+[2018.02.09-05.49.09:160][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset" to "../../../../../../Users/tugan.eritenel/Documents/git/learning_unreal/cpp_quickstart/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset"
+[2018.02.09-05.49.09:171][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset" to "../../../../../../Users/tugan.eritenel/Documents/git/learning_unreal/cpp_quickstart/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset"
+[2018.02.09-05.49.09:180][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset" to "../../../../../../Users/tugan.eritenel/Documents/git/learning_unreal/cpp_quickstart/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset"
+[2018.02.09-05.49.09:192][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset" to "../../../../../../Users/tugan.eritenel/Documents/git/learning_unreal/cpp_quickstart/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset"
+[2018.02.09-05.49.09:200][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset" to "../../../../../../Users/tugan.eritenel/Documents/git/learning_unreal/cpp_quickstart/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset"
+[2018.02.09-05.49.09:211][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset" to "../../../../../../Users/tugan.eritenel/Documents/git/learning_unreal/cpp_quickstart/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset"
+[2018.02.09-05.49.09:218][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset" to "../../../../../../Users/tugan.eritenel/Documents/git/learning_unreal/cpp_quickstart/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset"
+[2018.02.09-05.49.09:227][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset" to "../../../../../../Users/tugan.eritenel/Documents/git/learning_unreal/cpp_quickstart/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset"
+[2018.02.09-05.49.09:232][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset" to "../../../../../../Users/tugan.eritenel/Documents/git/learning_unreal/cpp_quickstart/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset"
+[2018.02.09-05.49.09:238][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset" to "../../../../../../Users/tugan.eritenel/Documents/git/learning_unreal/cpp_quickstart/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset"
+[2018.02.09-05.49.09:243][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_M.uasset" to "../../../../../../Users/tugan.eritenel/Documents/git/learning_unreal/cpp_quickstart/Content/StarterContent/Textures/T_Door_M.uasset"
+[2018.02.09-05.49.09:248][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_N.uasset" to "../../../../../../Users/tugan.eritenel/Documents/git/learning_unreal/cpp_quickstart/Content/StarterContent/Textures/T_Door_N.uasset"
+[2018.02.09-05.49.09:252][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Dust_Particle_D.uasset" to "../../../../../../Users/tugan.eritenel/Documents/git/learning_unreal/cpp_quickstart/Content/StarterContent/Textures/T_Dust_Particle_D.uasset"
+[2018.02.09-05.49.09:258][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Explosion_SubUV.uasset" to "../../../../../../Users/tugan.eritenel/Documents/git/learning_unreal/cpp_quickstart/Content/StarterContent/Textures/T_Explosion_SubUV.uasset"
+[2018.02.09-05.49.09:263][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_SubUV.uasset" to "../../../../../../Users/tugan.eritenel/Documents/git/learning_unreal/cpp_quickstart/Content/StarterContent/Textures/T_Fire_SubUV.uasset"
+[2018.02.09-05.49.09:286][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset" to "../../../../../../Users/tugan.eritenel/Documents/git/learning_unreal/cpp_quickstart/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset"
+[2018.02.09-05.49.09:290][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_M.uasset" to "../../../../../../Users/tugan.eritenel/Documents/git/learning_unreal/cpp_quickstart/Content/StarterContent/Textures/T_Frame_M.uasset"
+[2018.02.09-05.49.09:295][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_N.uasset" to "../../../../../../Users/tugan.eritenel/Documents/git/learning_unreal/cpp_quickstart/Content/StarterContent/Textures/T_Frame_N.uasset"
+[2018.02.09-05.49.09:299][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Gradinet_01.uasset" to "../../../../../../Users/tugan.eritenel/Documents/git/learning_unreal/cpp_quickstart/Content/StarterContent/Textures/T_Gradinet_01.uasset"
+[2018.02.09-05.49.09:310][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_D.uasset" to "../../../../../../Users/tugan.eritenel/Documents/git/learning_unreal/cpp_quickstart/Content/StarterContent/Textures/T_Ground_Grass_D.uasset"
+[2018.02.09-05.49.09:326][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_N.uasset" to "../../../../../../Users/tugan.eritenel/Documents/git/learning_unreal/cpp_quickstart/Content/StarterContent/Textures/T_Ground_Grass_N.uasset"
+[2018.02.09-05.49.09:336][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset" to "../../../../../../Users/tugan.eritenel/Documents/git/learning_unreal/cpp_quickstart/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset"
+[2018.02.09-05.49.09:345][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset" to "../../../../../../Users/tugan.eritenel/Documents/git/learning_unreal/cpp_quickstart/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset"
+[2018.02.09-05.49.09:364][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_ground_Moss_D.uasset" to "../../../../../../Users/tugan.eritenel/Documents/git/learning_unreal/cpp_quickstart/Content/StarterContent/Textures/T_ground_Moss_D.uasset"
+[2018.02.09-05.49.09:374][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Moss_N.uasset" to "../../../../../../Users/tugan.eritenel/Documents/git/learning_unreal/cpp_quickstart/Content/StarterContent/Textures/T_Ground_Moss_N.uasset"
+[2018.02.09-05.49.09:379][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_M.uasset" to "../../../../../../Users/tugan.eritenel/Documents/git/learning_unreal/cpp_quickstart/Content/StarterContent/Textures/T_Lamp_M.uasset"
+[2018.02.09-05.49.09:384][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_N.uasset" to "../../../../../../Users/tugan.eritenel/Documents/git/learning_unreal/cpp_quickstart/Content/StarterContent/Textures/T_Lamp_N.uasset"
+[2018.02.09-05.49.09:395][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_MacroVariation.uasset" to "../../../../../../Users/tugan.eritenel/Documents/git/learning_unreal/cpp_quickstart/Content/StarterContent/Textures/T_MacroVariation.uasset"
+[2018.02.09-05.49.09:404][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset" to "../../../../../../Users/tugan.eritenel/Documents/git/learning_unreal/cpp_quickstart/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset"
+[2018.02.09-05.49.09:413][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Copper_D.uasset" to "../../../../../../Users/tugan.eritenel/Documents/git/learning_unreal/cpp_quickstart/Content/StarterContent/Textures/T_Metal_Copper_D.uasset"
+[2018.02.09-05.49.09:422][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_D.uasset" to "../../../../../../Users/tugan.eritenel/Documents/git/learning_unreal/cpp_quickstart/Content/StarterContent/Textures/T_Metal_Gold_D.uasset"
+[2018.02.09-05.49.09:428][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_N.uasset" to "../../../../../../Users/tugan.eritenel/Documents/git/learning_unreal/cpp_quickstart/Content/StarterContent/Textures/T_Metal_Gold_N.uasset"
+[2018.02.09-05.49.09:437][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_D.uasset" to "../../../../../../Users/tugan.eritenel/Documents/git/learning_unreal/cpp_quickstart/Content/StarterContent/Textures/T_Metal_Rust_D.uasset"
+[2018.02.09-05.49.09:445][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_N.uasset" to "../../../../../../Users/tugan.eritenel/Documents/git/learning_unreal/cpp_quickstart/Content/StarterContent/Textures/T_Metal_Rust_N.uasset"
+[2018.02.09-05.49.09:450][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_D.uasset" to "../../../../../../Users/tugan.eritenel/Documents/git/learning_unreal/cpp_quickstart/Content/StarterContent/Textures/T_Metal_Steel_D.uasset"
+[2018.02.09-05.49.09:462][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_N.uasset" to "../../../../../../Users/tugan.eritenel/Documents/git/learning_unreal/cpp_quickstart/Content/StarterContent/Textures/T_Metal_Steel_N.uasset"
+[2018.02.09-05.49.09:470][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" to "../../../../../../Users/tugan.eritenel/Documents/git/learning_unreal/cpp_quickstart/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset"
+[2018.02.09-05.49.09:476][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_M.uasset" to "../../../../../../Users/tugan.eritenel/Documents/git/learning_unreal/cpp_quickstart/Content/StarterContent/Textures/T_RockMesh_M.uasset"
+[2018.02.09-05.49.09:482][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_N.uasset" to "../../../../../../Users/tugan.eritenel/Documents/git/learning_unreal/cpp_quickstart/Content/StarterContent/Textures/T_RockMesh_N.uasset"
+[2018.02.09-05.49.09:491][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset" to "../../../../../../Users/tugan.eritenel/Documents/git/learning_unreal/cpp_quickstart/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset"
+[2018.02.09-05.49.09:504][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset" to "../../../../../../Users/tugan.eritenel/Documents/git/learning_unreal/cpp_quickstart/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset"
+[2018.02.09-05.49.09:511][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset" to "../../../../../../Users/tugan.eritenel/Documents/git/learning_unreal/cpp_quickstart/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset"
+[2018.02.09-05.49.09:519][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset" to "../../../../../../Users/tugan.eritenel/Documents/git/learning_unreal/cpp_quickstart/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset"
+[2018.02.09-05.49.09:529][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset" to "../../../../../../Users/tugan.eritenel/Documents/git/learning_unreal/cpp_quickstart/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset"
+[2018.02.09-05.49.09:540][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_D.uasset" to "../../../../../../Users/tugan.eritenel/Documents/git/learning_unreal/cpp_quickstart/Content/StarterContent/Textures/T_Rock_Slate_D.uasset"
+[2018.02.09-05.49.09:549][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_N.uasset" to "../../../../../../Users/tugan.eritenel/Documents/git/learning_unreal/cpp_quickstart/Content/StarterContent/Textures/T_Rock_Slate_N.uasset"
+[2018.02.09-05.49.09:559][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset" to "../../../../../../Users/tugan.eritenel/Documents/git/learning_unreal/cpp_quickstart/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset"
+[2018.02.09-05.49.09:563][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_M.uasset" to "../../../../../../Users/tugan.eritenel/Documents/git/learning_unreal/cpp_quickstart/Content/StarterContent/Textures/T_Shelf_M.uasset"
+[2018.02.09-05.49.09:569][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_N.uasset" to "../../../../../../Users/tugan.eritenel/Documents/git/learning_unreal/cpp_quickstart/Content/StarterContent/Textures/T_Shelf_N.uasset"
+[2018.02.09-05.49.09:570][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Single_Tile_N.uasset" to "../../../../../../Users/tugan.eritenel/Documents/git/learning_unreal/cpp_quickstart/Content/StarterContent/Textures/T_Single_Tile_N.uasset"
+[2018.02.09-05.49.09:575][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_SubUV.uasset" to "../../../../../../Users/tugan.eritenel/Documents/git/learning_unreal/cpp_quickstart/Content/StarterContent/Textures/T_Smoke_SubUV.uasset"
+[2018.02.09-05.49.09:579][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset" to "../../../../../../Users/tugan.eritenel/Documents/git/learning_unreal/cpp_quickstart/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset"
+[2018.02.09-05.49.09:584][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Spark_Core.uasset" to "../../../../../../Users/tugan.eritenel/Documents/git/learning_unreal/cpp_quickstart/Content/StarterContent/Textures/T_Spark_Core.uasset"
+[2018.02.09-05.49.09:588][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_M.uasset" to "../../../../../../Users/tugan.eritenel/Documents/git/learning_unreal/cpp_quickstart/Content/StarterContent/Textures/T_Statue_M.uasset"
+[2018.02.09-05.49.09:593][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_N.uasset" to "../../../../../../Users/tugan.eritenel/Documents/git/learning_unreal/cpp_quickstart/Content/StarterContent/Textures/T_Statue_N.uasset"
+[2018.02.09-05.49.09:617][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_M.uasset" to "../../../../../../Users/tugan.eritenel/Documents/git/learning_unreal/cpp_quickstart/Content/StarterContent/Textures/T_TableRound_M.uasset"
+[2018.02.09-05.49.09:622][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_N.uasset" to "../../../../../../Users/tugan.eritenel/Documents/git/learning_unreal/cpp_quickstart/Content/StarterContent/Textures/T_TableRound_N.uasset"
+[2018.02.09-05.49.09:628][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_M.uasset" to "../../../../../../Users/tugan.eritenel/Documents/git/learning_unreal/cpp_quickstart/Content/StarterContent/Textures/T_Tech_Dot_M.uasset"
+[2018.02.09-05.49.09:632][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_N.uasset" to "../../../../../../Users/tugan.eritenel/Documents/git/learning_unreal/cpp_quickstart/Content/StarterContent/Textures/T_Tech_Dot_N.uasset"
+[2018.02.09-05.49.09:637][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset" to "../../../../../../Users/tugan.eritenel/Documents/git/learning_unreal/cpp_quickstart/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset"
+[2018.02.09-05.49.09:648][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset" to "../../../../../../Users/tugan.eritenel/Documents/git/learning_unreal/cpp_quickstart/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset"
+[2018.02.09-05.49.09:660][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_M.uasset" to "../../../../../../Users/tugan.eritenel/Documents/git/learning_unreal/cpp_quickstart/Content/StarterContent/Textures/T_Tech_Panel_M.uasset"
+[2018.02.09-05.49.09:666][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_N.uasset" to "../../../../../../Users/tugan.eritenel/Documents/git/learning_unreal/cpp_quickstart/Content/StarterContent/Textures/T_Tech_Panel_N.uasset"
+[2018.02.09-05.49.09:673][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_M.uasset" to "../../../../../../Users/tugan.eritenel/Documents/git/learning_unreal/cpp_quickstart/Content/StarterContent/Textures/T_Water_M.uasset"
+[2018.02.09-05.49.09:679][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_N.uasset" to "../../../../../../Users/tugan.eritenel/Documents/git/learning_unreal/cpp_quickstart/Content/StarterContent/Textures/T_Water_N.uasset"
+[2018.02.09-05.49.09:686][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset" to "../../../../../../Users/tugan.eritenel/Documents/git/learning_unreal/cpp_quickstart/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset"
+[2018.02.09-05.49.09:694][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset" to "../../../../../../Users/tugan.eritenel/Documents/git/learning_unreal/cpp_quickstart/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset"
+[2018.02.09-05.49.09:702][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset" to "../../../../../../Users/tugan.eritenel/Documents/git/learning_unreal/cpp_quickstart/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset"
+[2018.02.09-05.49.09:712][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_D.uasset" to "../../../../../../Users/tugan.eritenel/Documents/git/learning_unreal/cpp_quickstart/Content/StarterContent/Textures/T_Wood_Oak_D.uasset"
+[2018.02.09-05.49.09:723][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_N.uasset" to "../../../../../../Users/tugan.eritenel/Documents/git/learning_unreal/cpp_quickstart/Content/StarterContent/Textures/T_Wood_Oak_N.uasset"
+[2018.02.09-05.49.09:734][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_D.uasset" to "../../../../../../Users/tugan.eritenel/Documents/git/learning_unreal/cpp_quickstart/Content/StarterContent/Textures/T_Wood_Pine_D.uasset"
+[2018.02.09-05.49.09:740][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_N.uasset" to "../../../../../../Users/tugan.eritenel/Documents/git/learning_unreal/cpp_quickstart/Content/StarterContent/Textures/T_Wood_Pine_N.uasset"
+[2018.02.09-05.49.09:748][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset" to "../../../../../../Users/tugan.eritenel/Documents/git/learning_unreal/cpp_quickstart/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset"
+[2018.02.09-05.49.09:755][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset" to "../../../../../../Users/tugan.eritenel/Documents/git/learning_unreal/cpp_quickstart/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset"
+[2018.02.09-05.49.09:843][  0]LogRenderer: Reallocating scene render targets to support 256x256 Format 10 NumSamples 1 (Frame:1).
+[2018.02.09-05.49.10:363][  0]LogSavePackage: Save=17.45ms
+[2018.02.09-05.49.10:363][  0]LogSavePackage: Moving '../../../../../../Users/tugan.eritenel/Documents/git/learning_unreal/cpp_quickstart/Saved/Floor_400x40068AF09564B55BF03626C83A016F24972.tmp' to '../../../../../../Users/tugan.eritenel/Documents/git/learning_unreal/cpp_quickstart/Content/StarterContent/Architecture/Floor_400x400.uasset'
+[2018.02.09-05.49.10:366][  0]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/tugan.eritenel/Documents/git/learning_unreal/cpp_quickstart/Content/StarterContent/Architecture/Floor_400x400.uasset
+[2018.02.09-05.49.10:366][  0]LogFeaturePack: Warning: Inserted 1 feature packs
+[2018.02.09-05.49.10:367][  0]Cmd: MAP LOAD FILE="../../../../../../Users/tugan.eritenel/Documents/git/learning_unreal/cpp_quickstart/Content/StarterContent/Maps/Minimal_Default.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.02.09-05.49.10:368][  0]LightingResults: New page: Lighting Build
+[2018.02.09-05.49.10:429][  0]MapCheck: New page: Map Check
+[2018.02.09-05.49.10:431][  0]LightingResults: New page: Lighting Build
+[2018.02.09-05.49.10:776][  0]LogAIModule: Creating AISystem for world Minimal_Default
+[2018.02.09-05.49.10:784][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.02.09-05.49.10:797][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.02.09-05.49.10:852][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 54.316ms to complete.
+[2018.02.09-05.49.10:852][  0]LogFileHelpers: Loading map 'Minimal_Default' took 0.485
+[2018.02.09-05.49.11:036][  0]LogCollectionManager: Loaded 0 collections in 0.001810 seconds
+[2018.02.09-05.49.11:118][  0]LogFileCache: Scanning file cache for directory 'C:/Users/tugan.eritenel/Documents/git/learning_unreal/cpp_quickstart/Saved/Collections/' took 0.01s
+[2018.02.09-05.49.11:118][  0]LogFileCache: Scanning file cache for directory 'C:/Users/tugan.eritenel/Documents/git/learning_unreal/cpp_quickstart/Content/Developers/tuganeritenel/Collections/' took 0.01s
+[2018.02.09-05.49.11:118][  0]LogFileCache: Scanning file cache for directory 'C:/Users/tugan.eritenel/Documents/git/learning_unreal/cpp_quickstart/Content/Collections/' took 0.01s
+[2018.02.09-05.49.11:118][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.02.09-05.49.11:127][  0]LogContentBrowser: Native class hierarchy populated in 0.0091 seconds. Added 2364 classes and 521 folders.
+[2018.02.09-05.49.11:193][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2018.02.09-05.49.11:231][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2018.02.09-05.49.11:275][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0007 seconds. Added 1 classes and 2 folders.
+[2018.02.09-05.49.11:313][  0]LogSlate: Took 0.000147 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.02.09-05.49.11:315][  0]LogSlate: Took 0.000198 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.02.09-05.49.11:320][  0]LogSlate: Took 0.000172 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.02.09-05.49.11:363][  0]LogRenderer: Reallocating scene render targets to support 1028x600 Format 10 NumSamples 1 (Frame:1).
+[2018.02.09-05.49.11:996][  0]LogSlate: Took 0.000148 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.02.09-05.49.12:138][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0006 seconds. Added 1 classes and 2 folders.
+[2018.02.09-05.49.12:139][  0]LogLoad: (Engine Initialization) Total time: 22.06 seconds
+[2018.02.09-05.49.12:139][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.02.09-05.49.12:139][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2018.02.09-05.49.12:156][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.02.09-05.49.12:175][  0]LogAssetRegistry: Asset discovery search completed in 14.9655 seconds
+[2018.02.09-05.49.12:177][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.02.09-05.49.12:177][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000057 seconds (updated 0 objects)
+[2018.02.09-05.49.12:276][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.02.09-05.52.39:387][196]LogSlate: Took 0.000134 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.02.09-05.52.39:423][196]LogSlate: Took 0.000327 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.02.09-05.52.53:452][674]Running C:/Program Files/Epic Games/UE_4.18/Engine/Binaries/DotNET/UnrealBuildTool.exe  -projectfiles -project="C:/Users/tugan.eritenel/Documents/git/learning_unreal/cpp_quickstart/cpp_quickstart.uproject" -game -rocket -progress
+[2018.02.09-05.52.53:756][674]Discovering modules, targets and source code for project...
+[2018.02.09-05.52.55:965][674]LogSlate: Took 0.000212 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.02.09-05.52.57:195][674]LogVSAccessor: Warning: Couldn't access Visual Studio
+[2018.02.09-05.52.57:203][674]Candidate modules for hot reload:
+[2018.02.09-05.52.57:203][674]  cpp_quickstart
+[2018.02.09-05.52.57:204][674]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.18/Engine/Binaries/DotNET/UnrealBuildTool.exe cpp_quickstart -ModuleWithSuffix cpp_quickstart 3315 Win64 Development -editorrecompile -canskiplink "C:/Users/tugan.eritenel/Documents/git/learning_unreal/cpp_quickstart/cpp_quickstart.uproject" ]
+[2018.02.09-05.53.10:676][674]CompilerResultsLog: New page: Compilation - Feb 9, 2018, 10:53:10 AM
+[2018.02.09-05.53.10:676][674]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build.
+[2018.02.09-05.53.10:676][674]CompilerResultsLog: Creating makefile for hot reloading cpp_quickstart (no existing makefile)
+[2018.02.09-05.53.10:676][674]CompilerResultsLog: Compiling game modules for hot reload
+[2018.02.09-05.53.10:676][674]CompilerResultsLog: Parsing headers for cpp_quickstartEditor
+[2018.02.09-05.53.10:676][674]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\tugan.eritenel\Documents\git\learning_unreal\cpp_quickstart\cpp_quickstart.uproject" "C:\Users\tugan.eritenel\Documents\git\learning_unreal\cpp_quickstart\Intermediate\Build\Win64\cpp_quickstartEditor\Development\cpp_quickstartEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2018.02.09-05.53.10:676][674]CompilerResultsLog: Reflection code generated for cpp_quickstartEditor in 7.6230311 seconds
+[2018.02.09-05.53.10:676][674]CompilerResultsLog: Performing 5 actions (4 in parallel)
+[2018.02.09-05.53.10:676][674]CompilerResultsLog: FloatingActor.cpp
+[2018.02.09-05.53.10:676][674]CompilerResultsLog: FloatingActor.gen.cpp
+[2018.02.09-05.53.10:676][674]CompilerResultsLog: cpp_quickstart.init.gen.cpp
+[2018.02.09-05.53.10:676][674]CompilerResultsLog: [4/5] Link UE4Editor-cpp_quickstart-3315.dll
+[2018.02.09-05.53.10:676][674]CompilerResultsLog: [5/5] Link UE4Editor-cpp_quickstart-3315.lib
+[2018.02.09-05.53.10:676][674]CompilerResultsLog:    Creating library C:\Users\tugan.eritenel\Documents\git\learning_unreal\cpp_quickstart\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-cpp_quickstart-3315.lib and object C:\Users\tugan.eritenel\Documents\git\learning_unreal\cpp_quickstart\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-cpp_quickstart-3315.exp
+[2018.02.09-05.53.10:676][674]CompilerResultsLog:    Creating library C:\Users\tugan.eritenel\Documents\git\learning_unreal\cpp_quickstart\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-cpp_quickstart-3315.suppressed.lib and object C:\Users\tugan.eritenel\Documents\git\learning_unreal\cpp_quickstart\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-cpp_quickstart-3315.suppressed.exp
+[2018.02.09-05.53.10:676][674]CompilerResultsLog: Total build time: 13.26 seconds (Local executor: 1.12 seconds)
+[2018.02.09-05.53.10:677][674]LogMainFrame: MainFrame: Module compiling took 13.481 seconds
+[2018.02.09-05.53.10:752][674]LogClass: Could not find existing class FloatingActor in package /Script/cpp_quickstart for HotReload, assuming new class
+[2018.02.09-05.53.10:754][674]LogContentBrowser: Native class hierarchy updated for 'cpp_quickstart' in 0.0007 seconds. Added 2 classes and 2 folders.
+[2018.02.09-05.53.10:755][674]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2018.02.09-05.53.10:832][674]LogContentBrowser: Native class hierarchy populated in 0.0087 seconds. Added 2367 classes and 525 folders.
+[2018.02.09-05.53.10:832][674]Display: HotReload took 13.6s.
+[2018.02.09-05.53.10:833][674]Warning: HotReload operation took 13.6s.
+[2018.02.09-05.53.10:868][674]LogHotReload: New module detected: UE4Editor-cpp_quickstart-3315.dll
+[2018.02.09-05.53.10:891][675]LogHotReload: Starting Hot-Reload from IDE
+[2018.02.09-05.53.10:975][675]LogContentBrowser: Native class hierarchy updated for 'cpp_quickstart' in 0.0006 seconds. Added 2 classes and 2 folders.
+[2018.02.09-05.53.10:977][675]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2018.02.09-05.53.10:996][675]LogContentBrowser: Native class hierarchy populated in 0.0087 seconds. Added 2367 classes and 525 folders.
+[2018.02.09-05.53.10:999][675]Display: HotReload took  0.1s.
+[2018.02.09-05.53.16:099][796]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2018.02.09-05.53.16:115][797]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2018.02.09-05.53.19:594][805]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2018.02.09-05.53.19:892][806]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2018.02.09-05.53.20:230][807]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2018.02.09-05.53.20:561][808]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2018.02.09-05.53.20:896][809]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2018.02.09-05.53.21:229][810]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2018.02.09-05.53.21:562][811]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2018.02.09-05.53.21:890][812]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2018.02.09-05.53.22:229][813]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2018.02.09-05.53.22:562][814]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2018.02.09-05.53.22:892][815]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2018.02.09-05.53.22:899][815]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2018.02.09-05.53.23:228][816]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2018.02.09-05.53.23:562][817]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2018.02.09-05.53.23:893][818]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2018.02.09-05.53.24:229][819]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2018.02.09-05.53.24:563][820]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2018.02.09-05.53.24:895][821]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2018.02.09-05.53.25:231][822]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2018.02.09-05.53.33:719][842]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2018.02.09-05.53.34:052][843]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2018.02.09-05.53.34:386][844]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2018.02.09-05.53.36:054][849]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2018.02.09-05.53.36:387][850]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2018.02.09-05.53.36:719][851]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2018.02.09-05.53.37:053][852]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2018.02.09-05.53.37:646][853]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2018.02.09-05.55.28:640][389]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2018.02.09-05.55.55:652][470]LogHotReload: New module detected: UE4Editor-cpp_quickstart-8298.dll
+[2018.02.09-05.55.56:348][473]LogHotReload: Starting Hot-Reload from IDE
+[2018.02.09-05.55.56:426][473]LogClass: Could not find existing class FloatingActor in package /Script/cpp_quickstart for HotReload, assuming new class
+[2018.02.09-05.55.56:428][473]LogHotReload: Re-instancing FloatingActor after hot-reload.
+[2018.02.09-05.55.56:471][473]LogContentBrowser: Native class hierarchy updated for 'cpp_quickstart' in 0.0007 seconds. Added 2 classes and 2 folders.
+[2018.02.09-05.55.56:473][473]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2018.02.09-05.55.56:512][473]LogContentBrowser: Native class hierarchy populated in 0.0086 seconds. Added 2367 classes and 525 folders.
+[2018.02.09-05.55.56:515][473]Display: HotReload took  0.2s.
+[2018.02.09-05.56.02:458][622]MapCheck: New page: Map Check
+[2018.02.09-05.56.02:474][622]Cmd: MAP REBUILD ALLVISIBLE
+[2018.02.09-05.56.02:474][622]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2018.02.09-05.56.02:599][622]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy WorldGridMaterial, compiling. Is special engine material.
+[2018.02.09-05.56.02:609][622]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Metal_Brushed_Nickel, compiling. 
+[2018.02.09-05.56.02:615][622]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_TableRound, compiling. 
+[2018.02.09-05.56.02:620][622]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Chair, compiling. 
+[2018.02.09-05.56.02:626][622]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Metal_Copper, compiling. 
+[2018.02.09-05.56.02:633][622]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_StatueGlass, compiling. 
+[2018.02.09-05.56.02:639][622]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Metal_Burnished_Steel, compiling. 
+[2018.02.09-05.56.02:644][622]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy MaterialInstanceDynamic_1, compiling. 
+[2018.02.09-05.56.03:425][622]TextureStreamingBuild: Display: Compiling optional shaders took 0.832 seconds.
+[2018.02.09-05.56.03:496][622]LogLevel: Display: Export Material TexCoord Scales took 0.071 seconds.
+[2018.02.09-05.56.03:524][622]TextureStreamingBuild: Display: Build Texture Streaming took 0.026 seconds.
+[2018.02.09-05.56.03:534][622]LightingResults: New page: Lighting Build - Feb 9, 2018, 10:56:03 AM
+[2018.02.09-05.56.03:577][622]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2018.02.09-05.56.03:723][622]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2018.02.09-05.56.03:740][622]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2018.02.09-05.56.04:757][622]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2018.02.09-05.56.04:757][622]LogSwarmInterface: [TryOpenConnection] Local Process ID is 12844
+[2018.02.09-05.56.07:491][622]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2018.02.09-05.56.07:491][622]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2018.02.09-05.56.07:491][622]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2018.02.09-05.56.07:491][622]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2018.02.09-05.56.07:491][622]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2018.02.09-05.56.07:491][622]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2018.02.09-05.56.07:697][622]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2018.02.09-05.56.07:697][622]MapCheck: New page: Minimal_Default - Feb 9, 2018, 10:56:07 AM
+[2018.02.09-05.56.07:754][622]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 56.758ms to complete.
+[2018.02.09-05.56.07:776][622]LogEditorBuildUtils: Build time 0:05
+[2018.02.09-05.56.07:790][622]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer M_Metal_Brushed_Nickel, compiling. 
+[2018.02.09-05.56.07:798][622]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer M_Metal_Brushed_Nickel, compiling. 
+[2018.02.09-05.56.07:831][623]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer M_Metal_Copper, compiling. 
+[2018.02.09-05.56.07:838][623]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer M_Metal_Copper, compiling. 
+[2018.02.09-05.56.07:880][624]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer M_Metal_Burnished_Steel, compiling. 
+[2018.02.09-05.56.07:886][624]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer M_Metal_Burnished_Steel, compiling. 
+[2018.02.09-05.56.11:112][685]Job is a success!
+[2018.02.09-05.56.11:238][686]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.007s
+[2018.02.09-05.56.11:238][686]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2018.02.09-05.56.11:238][686]LogVolumetricLightmapImport:      BrickData 30x5x5 = 0.0Mb
+[2018.02.09-05.56.11:238][686]LogVolumetricLightmapImport:      Bricks at Level
+[2018.02.09-05.56.11:238][686]LogVolumetricLightmapImport:          0: 16.7% covering 100.0% of volume
+[2018.02.09-05.56.11:238][686]LogVolumetricLightmapImport:          1: 16.7% covering 1.6% of volume
+[2018.02.09-05.56.11:238][686]LogVolumetricLightmapImport:          2: 66.7% covering 0.1% of volume
+[2018.02.09-05.56.11:437][686]LogTexture: Display: Building textures: SkyOcclusion1_1 (AutoDXT, 512X256)
+[2018.02.09-05.56.11:437][686]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 512X512)
+[2018.02.09-05.56.11:437][686]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 512X512)
+[2018.02.09-05.56.11:437][686]LogTexture: Display: Building textures: SkyOcclusion1_2 (AutoDXT, 64X32)
+[2018.02.09-05.56.11:437][686]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 64X64)
+[2018.02.09-05.56.11:437][686]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 64X64)
+[2018.02.09-05.56.11:437][686]LogTexture: Display: Building textures: ShadowMapTexture2D_3 (G8, 32X32)
+[2018.02.09-05.56.11:437][686]LogTexture: Display: Building textures: ShadowMapTexture2D_2 (G8, 1024X128)
+[2018.02.09-05.56.11:460][686]Lightmass on P5520: 1.62 sec total, 233 ms importing, 31 ms setup, 267 ms photons, 1.05 sec processing, 0 ms extra exporting [7/7 mappings]. Threads: 4.17 sec total, 1.76 sec processing.
+[2018.02.09-05.56.11:477][686]LogStaticLightingSystem: Illumination: 7.88 sec (157 ms encoding lightmaps, 29 ms encoding shadowmaps)
+[2018.02.09-05.56.11:477][686]LogStaticLightingSystem: Lightmap texture memory:  0.7 MB (0.7 MB streaming, 0.0 MB non-streaming), 4 textures
+[2018.02.09-05.56.11:477][686]LogStaticLightingSystem: Shadowmap texture memory: 0.2 MB (0.2 MB streaming, 0.0 MB non-streaming), 2 textures
+[2018.02.09-05.56.11:494][686]DumpUnbuiltLightIteractions
+[2018.02.09-05.56.11:494][686]Lights with unbuilt interactions: 0
+[2018.02.09-05.56.11:494][686]
+[2018.02.09-05.56.11:494][686]Primitives with unbuilt interactions: 0
+[2018.02.09-05.56.11:814][687]Cmd: MAP CHECK NOTIFYRESULTS
+[2018.02.09-05.56.11:814][687]MapCheck: New page: Minimal_Default - Feb 9, 2018, 10:56:11 AM
+[2018.02.09-05.56.11:861][687]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 47.899ms to complete.
+[2018.02.09-05.58.10:907][957]LogWindows: LaunchFileInExternalEditor C:/Users/tugan.eritenel/Documents/git/learning_unreal/cpp_quickstart/Source/cpp_quickstart/FloatingActor.h 
+[2018.02.09-05.58.11:146][957]LogWindows: Launch application code for C:/Users/tugan.eritenel/Documents/git/learning_unreal/cpp_quickstart/Source/cpp_quickstart/FloatingActor.h : 42
+[2018.02.09-05.58.11:146][957]LogWindows: LaunchFileInExternalEditor C:/Users/tugan.eritenel/Documents/git/learning_unreal/cpp_quickstart/Source/cpp_quickstart/FloatingActor.cpp 
+[2018.02.09-05.58.11:352][957]LogWindows: Launch application code for C:/Users/tugan.eritenel/Documents/git/learning_unreal/cpp_quickstart/Source/cpp_quickstart/FloatingActor.cpp : 42
+[2018.02.09-05.58.11:352][957]LogVSAccessor: Warning: Couldn't access Visual Studio
+[2018.02.09-05.58.11:356][957]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.09-05.58.11:356][957]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.09-05.58.11:356][957]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.09-05.58.11:357][957]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.09-05.58.11:357][957]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.09-05.58.11:357][957]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.09-05.58.11:357][957]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.09-05.58.11:357][957]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.09-05.58.11:357][957]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.09-05.58.11:357][957]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.09-05.58.11:357][957]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.09-05.58.11:357][957]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.09-05.58.11:357][957]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.09-05.58.11:357][957]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.09-05.58.11:358][957]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.09-05.58.11:358][957]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.09-05.58.11:358][957]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.09-05.58.11:358][957]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.09-05.58.11:358][957]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.09-05.58.11:358][957]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.09-05.58.11:358][957]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.09-05.58.11:358][957]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.09-05.58.11:358][957]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.09-05.58.11:358][957]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.09-05.58.11:358][957]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.09-05.58.11:358][957]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.09-05.58.11:359][957]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.09-05.58.11:359][957]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.09-05.58.11:359][957]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.09-05.58.11:359][957]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.09-05.58.11:359][957]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.09-05.58.11:359][957]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.09-05.58.11:359][957]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.09-05.58.11:359][957]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.09-05.58.11:359][957]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.09-05.58.11:359][957]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.09-05.58.11:359][957]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.09-05.58.11:360][957]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.09-05.58.11:360][957]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.09-05.58.11:360][957]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.09-05.58.11:360][957]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.09-05.58.11:360][957]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.09-05.58.11:360][957]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.09-05.58.11:360][957]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.09-05.58.11:360][957]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.09-05.58.11:360][957]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.09-05.58.11:361][957]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.09-05.58.11:361][957]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.09-05.58.11:361][957]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.09-05.58.11:361][957]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.09-05.58.11:361][957]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.09-05.58.11:361][957]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.09-05.58.11:361][957]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.09-05.58.11:361][957]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.09-05.58.11:362][957]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.09-05.58.11:362][957]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.09-05.58.11:362][957]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.09-05.58.11:362][957]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.09-05.58.11:362][957]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.09-05.58.11:362][957]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.09-05.58.11:362][957]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.09-05.58.11:362][957]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.09-05.58.11:362][957]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.09-05.58.11:362][957]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.09-05.58.11:362][957]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.09-05.58.11:363][957]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.09-05.58.11:363][957]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.09-05.58.11:363][957]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.09-05.58.11:363][957]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.09-05.58.11:363][957]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.09-05.58.11:363][957]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.09-05.58.11:363][957]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.09-05.58.11:363][957]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.09-05.58.11:363][957]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.09-05.58.11:363][957]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.09-05.58.11:363][957]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.09-05.58.11:364][957]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.09-05.58.11:364][957]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.09-05.58.11:364][957]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.09-05.58.11:364][957]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.09-05.58.11:364][957]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.09-05.58.11:364][957]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.09-05.58.11:364][957]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.09-05.58.11:364][957]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.09-05.58.11:364][957]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.09-05.58.11:364][957]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.09-05.58.11:365][957]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.09-05.58.11:365][957]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.09-05.58.11:365][957]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.09-05.58.11:365][957]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.09-05.58.11:365][957]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.09-05.58.11:365][957]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.09-05.58.11:368][957]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.09-05.58.11:369][957]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.09-05.58.11:371][957]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.09-05.58.11:371][957]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.09-05.58.11:371][957]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.09-05.58.11:371][957]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.09-05.58.11:397][957]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.09-05.58.11:398][957]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.09-05.58.11:398][957]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.09-05.58.11:398][957]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.09-05.58.11:398][957]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.09-05.58.11:399][957]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.09-05.58.11:399][957]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.09-05.58.11:399][957]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.09-05.58.11:399][957]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.09-05.58.11:400][957]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.09-05.58.11:402][957]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.09-05.58.11:402][957]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.09-05.58.11:403][957]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.09-05.58.11:403][957]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.09-05.58.11:403][957]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.09-05.58.11:404][957]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.09-05.58.11:404][957]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.09-05.58.11:404][957]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.09-05.58.11:412][957]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.09-05.58.11:412][957]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.09-05.58.11:413][957]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.09-05.58.11:413][957]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.09-05.58.11:413][957]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.09-05.58.11:414][957]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.09-05.58.11:471][957]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.09-05.58.11:471][957]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.09-05.58.36:659][415]LogContentBrowser: Native class hierarchy updated for 'WorldBrowser' in 0.0006 seconds. Added 2 classes and 3 folders.
+[2018.02.09-05.58.55:387][687]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2018.02.09-05.58.56:940][742]LogEditor: Attempting to add actor of class 'FloatingActor' to level at -170.00,200.00,30.00
+[2018.02.09-05.58.58:011][777]LogEditor: Attempting to add actor of class 'FloatingActor' to level at -740.00,70.00,120.00
+[2018.02.09-05.59.19:396][587]LogEditorViewport: Clicking on Actor (LMB): SphereReflectionCapture (SphereReflectionCapture)
+[2018.02.09-05.59.21:103][640]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2018.02.09-05.59.54:053][644]LogMaterial: Missing cached shader map for material BasicShapeMaterial, compiling. 
+[2018.02.09-05.59.59:020][762]LogSlate: Took 0.006558 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.02.09-06.00.17:933][132]MapCheck: New page: Map Check
+[2018.02.09-06.00.17:949][132]Cmd: MAP REBUILD ALLVISIBLE
+[2018.02.09-06.00.17:949][132]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2018.02.09-06.00.17:996][132]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy WorldGridMaterial, compiling. Is special engine material.
+[2018.02.09-06.00.18:002][132]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Metal_Brushed_Nickel, compiling. 
+[2018.02.09-06.00.18:010][132]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_TableRound, compiling. 
+[2018.02.09-06.00.18:016][132]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Chair, compiling. 
+[2018.02.09-06.00.18:022][132]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Metal_Copper, compiling. 
+[2018.02.09-06.00.18:029][132]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_StatueGlass, compiling. 
+[2018.02.09-06.00.18:035][132]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Metal_Burnished_Steel, compiling. 
+[2018.02.09-06.00.18:040][132]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy MaterialInstanceDynamic_2, compiling. 
+[2018.02.09-06.00.18:046][132]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy BasicShapeMaterial, compiling. 
+[2018.02.09-06.00.18:553][132]TextureStreamingBuild: Display: Compiling optional shaders took 0.562 seconds.
+[2018.02.09-06.00.18:622][132]LogLevel: Display: Export Material TexCoord Scales took 0.069 seconds.
+[2018.02.09-06.00.18:648][132]TextureStreamingBuild: Display: Build Texture Streaming took 0.026 seconds.
+[2018.02.09-06.00.18:658][132]LightingResults: New page: Lighting Build - Feb 9, 2018, 11:00:18 AM
+[2018.02.09-06.00.18:667][132]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2018.02.09-06.00.18:669][132]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2018.02.09-06.00.18:669][132]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2018.02.09-06.00.18:669][132]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2018.02.09-06.00.18:669][132]LogSwarmInterface: [TryOpenConnection] Local Process ID is 12844
+[2018.02.09-06.00.23:534][132]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2018.02.09-06.00.23:534][132]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2018.02.09-06.00.23:534][132]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2018.02.09-06.00.23:534][132]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2018.02.09-06.00.23:534][132]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2018.02.09-06.00.23:534][132]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2018.02.09-06.00.23:697][132]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2018.02.09-06.00.23:697][132]MapCheck: New page: Minimal_Default - Feb 9, 2018, 11:00:23 AM
+[2018.02.09-06.00.23:744][132]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 47.31ms to complete.
+[2018.02.09-06.00.23:766][132]LogEditorBuildUtils: Build time 0:05
+[2018.02.09-06.00.25:480][184]Job is a success!
+[2018.02.09-06.00.25:595][185]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.005s
+[2018.02.09-06.00.25:595][185]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2018.02.09-06.00.25:595][185]LogVolumetricLightmapImport:      BrickData 30x5x5 = 0.0Mb
+[2018.02.09-06.00.25:595][185]LogVolumetricLightmapImport:      Bricks at Level
+[2018.02.09-06.00.25:595][185]LogVolumetricLightmapImport:          0: 16.7% covering 100.0% of volume
+[2018.02.09-06.00.25:595][185]LogVolumetricLightmapImport:          1: 16.7% covering 1.6% of volume
+[2018.02.09-06.00.25:595][185]LogVolumetricLightmapImport:          2: 66.7% covering 0.1% of volume
+[2018.02.09-06.00.25:799][185]LogTexture: Display: Building textures: SkyOcclusion0_1 (AutoDXT, 512X256)
+[2018.02.09-06.00.25:799][185]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 512X512)
+[2018.02.09-06.00.25:799][185]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 512X512)
+[2018.02.09-06.00.25:799][185]LogTexture: Display: Building textures: SkyOcclusion0_2 (AutoDXT, 64X32)
+[2018.02.09-06.00.25:799][185]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 64X64)
+[2018.02.09-06.00.25:799][185]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 64X64)
+[2018.02.09-06.00.25:799][185]LogTexture: Display: Building textures: ShadowMapTexture2D_5 (G8, 32X32)
+[2018.02.09-06.00.25:799][185]LogTexture: Display: Building textures: ShadowMapTexture2D_4 (G8, 1024X128)
+[2018.02.09-06.00.25:822][185]Lightmass on P5520: 1.52 sec total, 152 ms importing, 25 ms setup, 275 ms photons, 1.04 sec processing, 0 ms extra exporting [7/7 mappings]. Threads: 4.16 sec total, 1.82 sec processing.
+[2018.02.09-06.00.25:827][185]LogStaticLightingSystem: Illumination: 7.10 sec (158 ms encoding lightmaps, 31 ms encoding shadowmaps)
+[2018.02.09-06.00.25:827][185]LogStaticLightingSystem: Lightmap texture memory:  0.7 MB (0.7 MB streaming, 0.0 MB non-streaming), 4 textures
+[2018.02.09-06.00.25:827][185]LogStaticLightingSystem: Shadowmap texture memory: 0.2 MB (0.2 MB streaming, 0.0 MB non-streaming), 2 textures
+[2018.02.09-06.00.26:536][185]DumpUnbuiltLightIteractions
+[2018.02.09-06.00.26:536][185]Lights with unbuilt interactions: 0
+[2018.02.09-06.00.26:536][185]
+[2018.02.09-06.00.26:536][185]Primitives with unbuilt interactions: 0
+[2018.02.09-06.00.26:908][186]Cmd: MAP CHECK NOTIFYRESULTS
+[2018.02.09-06.00.26:908][186]MapCheck: New page: Minimal_Default - Feb 9, 2018, 11:00:26 AM
+[2018.02.09-06.00.26:954][186]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 46.727ms to complete.
+[2018.02.09-06.00.28:535][233]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.09-06.00.28:604][233]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.02.09-06.00.28:607][233]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.09-06.00.28:607][233]PIE: New page: PIE session: Minimal_Default (Feb 9, 2018, 11:00:28 AM)
+[2018.02.09-06.00.28:607][233]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2018.02.09-06.00.28:612][233]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004648s)
+[2018.02.09-06.00.28:613][233]LogAIModule: Creating AISystem for world Minimal_Default
+[2018.02.09-06.00.28:613][233]LogPlayLevel: PIE: World Init took: (0.000752s)
+[2018.02.09-06.00.28:613][233]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.005649s)
+[2018.02.09-06.00.28:625][233]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.09-06.00.28:637][233]LogInit: FAudioDevice initialized.
+[2018.02.09-06.00.28:678][233]LogUObjectGlobals: Warning: Failed to find object 'Class /Script/cpp_quickstart.cpp_quickstartGameMode'
+[2018.02.09-06.00.28:678][233]LogLoad: Game class is 'GameModeBase'
+[2018.02.09-06.00.28:681][233]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 60) at 2018.02.09-09.00.28
+[2018.02.09-06.00.28:682][233]LogWorld: Bringing up level for play took: 0.001017
+[2018.02.09-06.00.28:723][233]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0008 seconds. Added 11 classes and 0 folders.
+[2018.02.09-06.00.28:724][233]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default 0.647
+[2018.02.09-06.00.28:724][233]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.02.09-06.00.38:427][597]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.02.09-06.00.38:477][597]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.02.09-06.00.49:005][931]LogSavePackage: Save=171.88ms
+[2018.02.09-06.00.49:005][931]LogSavePackage: Moving '../../../../../../Users/tugan.eritenel/Documents/git/learning_unreal/cpp_quickstart/Saved/Minimal_Default54DAF2DF456A953BAB789C8215329AC0.tmp' to '../../../../../../Users/tugan.eritenel/Documents/git/learning_unreal/cpp_quickstart/Content/StarterContent/Maps/Minimal_Default.umap'
+[2018.02.09-06.00.49:010][931]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/tugan.eritenel/Documents/git/learning_unreal/cpp_quickstart/Content/StarterContent/Maps/Minimal_Default.umap
+[2018.02.09-06.00.49:026][931]LogFileHelpers: Saving map 'Minimal_Default' took 0.259
+[2018.02.09-06.00.49:071][931]LogSavePackage: Save=33.98ms
+[2018.02.09-06.00.49:071][931]LogSavePackage: Moving '../../../../../../Users/tugan.eritenel/Documents/git/learning_unreal/cpp_quickstart/Saved/Minimal_Default_BuiltData6C213AEC44FCAA1D7FE61BBC0D4594EF.tmp' to '../../../../../../Users/tugan.eritenel/Documents/git/learning_unreal/cpp_quickstart/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'
+[2018.02.09-06.00.49:075][931]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/tugan.eritenel/Documents/git/learning_unreal/cpp_quickstart/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset
+[2018.02.09-06.00.52:116][959]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2018.02.09-06.00.55:031][  7]Cmd: CLOSE_SLATE_MAINFRAME
+[2018.02.09-06.00.55:093][  7]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.02.09-06.00.55:330][  8]Cmd: QUIT_EDITOR
+[2018.02.09-06.00.55:680][  8]LogExit: Preparing to exit.
+[2018.02.09-06.00.56:818][  8]LogDirectoryWatcher: A directory notification for 'C:/Users/tugan.eritenel/Documents/git/learning_unreal/cpp_quickstart/Content/' was aborted.
+[2018.02.09-06.00.56:841][  8]LogExit: Editor shut down
+[2018.02.09-06.00.56:848][  8]LogExit: Transaction tracking system shut down
+[2018.02.09-06.00.57:034][  8]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2018.02.09-06.00.57:034][  8]LogDirectoryWatcher: A directory notification for '../../../../../../Users/tugan.eritenel/Documents/git/learning_unreal/cpp_quickstart/Content/' was aborted.
+[2018.02.09-06.00.57:034][  8]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2018.02.09-06.00.57:034][  8]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Media/MediaCompositing/Content/' was aborted.
+[2018.02.09-06.00.57:034][  8]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/AppleARKit/Content/' was aborted.
+[2018.02.09-06.00.57:034][  8]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
+[2018.02.09-06.00.57:034][  8]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
+[2018.02.09-06.00.57:070][  8]LogExit: Object subsystem successfully closed.
+[2018.02.09-06.00.57:089][  8]LogD3D11RHI: Shutdown
+[2018.02.09-06.00.57:089][  8]LogD3D11RHI: CleanupD3DDevice
+[2018.02.09-06.00.57:107][  8]LogD3D11RHI: ~FD3D11DynamicRHI
+[2018.02.09-06.00.57:122][  8]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (559)
+[2018.02.09-06.00.57:122][  8]LogModuleManager: Shutting down and abandoning module WorldBrowser (557)
+[2018.02.09-06.00.57:122][  8]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (555)
+[2018.02.09-06.00.57:122][  8]LogModuleManager: Shutting down and abandoning module cpp_quickstart (553)
+[2018.02.09-06.00.57:122][  8]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (550)
+[2018.02.09-06.00.57:122][  8]LogModuleManager: Shutting down and abandoning module DesktopPlatform (548)
+[2018.02.09-06.00.57:122][  8]LogModuleManager: Shutting down and abandoning module SceneOutliner (546)
+[2018.02.09-06.00.57:122][  8]LogModuleManager: Shutting down and abandoning module AddContentDialog (544)
+[2018.02.09-06.00.57:122][  8]LogDirectoryWatcher: A directory notification for 'C:/Program Files/Epic Games/UE_4.18/FeaturePacks/' was aborted.
+[2018.02.09-06.00.57:123][  8]LogModuleManager: Shutting down and abandoning module WidgetCarousel (543)
+[2018.02.09-06.00.57:123][  8]LogModuleManager: Shutting down and abandoning module EditorWidgets (540)
+[2018.02.09-06.00.57:123][  8]LogModuleManager: Shutting down and abandoning module CollectionManager (538)
+[2018.02.09-06.00.57:123][  8]LogDirectoryWatcher: A directory notification for 'C:/Users/tugan.eritenel/Documents/git/learning_unreal/cpp_quickstart/Content/Collections/' was aborted.
+[2018.02.09-06.00.57:123][  8]LogDirectoryWatcher: A directory notification for 'C:/Users/tugan.eritenel/Documents/git/learning_unreal/cpp_quickstart/Content/Developers/tuganeritenel/Collections/' was aborted.
+[2018.02.09-06.00.57:123][  8]LogDirectoryWatcher: A directory notification for 'C:/Users/tugan.eritenel/Documents/git/learning_unreal/cpp_quickstart/Saved/Collections/' was aborted.
+[2018.02.09-06.00.57:123][  8]LogModuleManager: Shutting down and abandoning module StatsViewer (536)
+[2018.02.09-06.00.57:123][  8]LogModuleManager: Shutting down and abandoning module FoliageEdit (534)
+[2018.02.09-06.00.57:123][  8]LogModuleManager: Shutting down and abandoning module LandscapeEditor (532)
+[2018.02.09-06.00.57:123][  8]LogModuleManager: Shutting down and abandoning module MeshPaintMode (530)
+[2018.02.09-06.00.57:123][  8]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (528)
+[2018.02.09-06.00.57:123][  8]LogModuleManager: Shutting down and abandoning module ActorPickerMode (526)
+[2018.02.09-06.00.57:123][  8]LogModuleManager: Shutting down and abandoning module GeometryMode (524)
+[2018.02.09-06.00.57:123][  8]LogModuleManager: Shutting down and abandoning module TextureAlignMode (522)
+[2018.02.09-06.00.57:123][  8]LogModuleManager: Shutting down and abandoning module BspMode (520)
+[2018.02.09-06.00.57:123][  8]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (518)
+[2018.02.09-06.00.57:123][  8]LogModuleManager: Shutting down and abandoning module HardwareSurvey (516)
+[2018.02.09-06.00.57:123][  8]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (514)
+[2018.02.09-06.00.57:123][  8]LogModuleManager: Shutting down and abandoning module AutomationWorker (512)
+[2018.02.09-06.00.57:123][  8]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (510)
+[2018.02.09-06.00.57:123][  8]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (508)
+[2018.02.09-06.00.57:123][  8]LogModuleManager: Shutting down and abandoning module PlacementMode (507)
+[2018.02.09-06.00.57:123][  8]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (504)
+[2018.02.09-06.00.57:123][  8]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (502)
+[2018.02.09-06.00.57:123][  8]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (500)
+[2018.02.09-06.00.57:123][  8]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (498)
+[2018.02.09-06.00.57:123][  8]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (496)
+[2018.02.09-06.00.57:123][  8]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (494)
+[2018.02.09-06.00.57:123][  8]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (492)
+[2018.02.09-06.00.57:123][  8]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (490)
+[2018.02.09-06.00.57:123][  8]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (488)
+[2018.02.09-06.00.57:124][  8]LogModuleManager: Shutting down and abandoning module CharacterAI (486)
+[2018.02.09-06.00.57:124][  8]LogModuleManager: Shutting down and abandoning module AudioCapture (484)
+[2018.02.09-06.00.57:124][  8]LogModuleManager: Shutting down and abandoning module SequenceRecorder (483)
+[2018.02.09-06.00.57:124][  8]LogModuleManager: Shutting down and abandoning module SmartSnapping (480)
+[2018.02.09-06.00.57:124][  8]LogModuleManager: Shutting down and abandoning module SessionServices (478)
+[2018.02.09-06.00.57:124][  8]LogModuleManager: Shutting down and abandoning module ViewportSnapping (476)
+[2018.02.09-06.00.57:124][  8]LogModuleManager: Shutting down and abandoning module ViewportInteraction (474)
+[2018.02.09-06.00.57:124][  8]LogModuleManager: Shutting down and abandoning module ClothPainter (472)
+[2018.02.09-06.00.57:124][  8]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (471)
+[2018.02.09-06.00.57:124][  8]LogModuleManager: Shutting down and abandoning module LogVisualizer (468)
+[2018.02.09-06.00.57:124][  8]LogModuleManager: Shutting down and abandoning module IntroTutorials (466)
+[2018.02.09-06.00.57:124][  8]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (465)
+[2018.02.09-06.00.57:124][  8]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (462)
+[2018.02.09-06.00.57:124][  8]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (460)
+[2018.02.09-06.00.57:124][  8]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (458)
+[2018.02.09-06.00.57:124][  8]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (457)
+[2018.02.09-06.00.57:540][  8]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (454)
+[2018.02.09-06.00.57:540][  8]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (452)
+[2018.02.09-06.00.57:540][  8]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (450)
+[2018.02.09-06.00.57:540][  8]LogModuleManager: Shutting down and abandoning module InputBindingEditor (448)
+[2018.02.09-06.00.57:540][  8]LogModuleManager: Shutting down and abandoning module MergeActors (446)
+[2018.02.09-06.00.57:541][  8]LogModuleManager: Shutting down and abandoning module SizeMap (444)
+[2018.02.09-06.00.57:541][  8]LogModuleManager: Shutting down and abandoning module TreeMap (442)
+[2018.02.09-06.00.57:541][  8]LogModuleManager: Shutting down and abandoning module ReferenceViewer (440)
+[2018.02.09-06.00.57:541][  8]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (438)
+[2018.02.09-06.00.57:541][  8]LogModuleManager: Shutting down and abandoning module LocalizationService (437)
+[2018.02.09-06.00.57:541][  8]LogModuleManager: Shutting down and abandoning module HardwareTargeting (434)
+[2018.02.09-06.00.57:541][  8]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (432)
+[2018.02.09-06.00.57:541][  8]LogModuleManager: Shutting down and abandoning module UndoHistory (430)
+[2018.02.09-06.00.57:541][  8]LogModuleManager: Shutting down and abandoning module XmlParser (428)
+[2018.02.09-06.00.57:541][  8]LogModuleManager: Shutting down and abandoning module Blutility (426)
+[2018.02.09-06.00.57:541][  8]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (424)
+[2018.02.09-06.00.57:542][  8]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (423)
+[2018.02.09-06.00.57:542][  8]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (420)
+[2018.02.09-06.00.57:542][  8]LogModuleManager: Shutting down and abandoning module SettingsEditor (418)
+[2018.02.09-06.00.57:542][  8]LogModuleManager: Shutting down and abandoning module ProjectLauncher (416)
+[2018.02.09-06.00.57:542][  8]LogModuleManager: Shutting down and abandoning module SessionFrontend (414)
+[2018.02.09-06.00.57:542][  8]LogModuleManager: Shutting down and abandoning module ProfilerClient (412)
+[2018.02.09-06.00.57:542][  8]LogModuleManager: Shutting down and abandoning module DeviceManager (410)
+[2018.02.09-06.00.57:543][  8]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (409)
+[2018.02.09-06.00.57:595][  8]LogModuleManager: Shutting down and abandoning module AutomationController (406)
+[2018.02.09-06.00.57:595][  8]LogModuleManager: Shutting down and abandoning module AutomationWindow (404)
+[2018.02.09-06.00.57:595][  8]LogModuleManager: Shutting down and abandoning module Layers (402)
+[2018.02.09-06.00.57:595][  8]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (400)
+[2018.02.09-06.00.57:595][  8]LogModuleManager: Shutting down and abandoning module DetailCustomizations (398)
+[2018.02.09-06.00.57:596][  8]LogModuleManager: Shutting down and abandoning module PackagesDialog (396)
+[2018.02.09-06.00.57:596][  8]LogModuleManager: Shutting down and abandoning module Persona (394)
+[2018.02.09-06.00.57:596][  8]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (393)
+[2018.02.09-06.00.57:596][  8]LogModuleManager: Shutting down and abandoning module AnimGraph (391)
+[2018.02.09-06.00.57:596][  8]LogModuleManager: Shutting down and abandoning module Kismet (388)
+[2018.02.09-06.00.57:597][  8]LogModuleManager: Shutting down and abandoning module ClassViewer (386)
+[2018.02.09-06.00.57:601][  8]LogModuleManager: Shutting down and abandoning module Toolbox (384)
+[2018.02.09-06.00.57:601][  8]LogModuleManager: Shutting down and abandoning module ModuleUI (382)
+[2018.02.09-06.00.57:601][  8]LogModuleManager: Shutting down and abandoning module MovieSceneTools (380)
+[2018.02.09-06.00.57:602][  8]LogModuleManager: Shutting down and abandoning module OutputLog (378)
+[2018.02.09-06.00.57:602][  8]LogModuleManager: Shutting down and abandoning module GammaUI (376)
+[2018.02.09-06.00.57:602][  8]LogModuleManager: Shutting down and abandoning module Documentation (374)
+[2018.02.09-06.00.57:602][  8]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (372)
+[2018.02.09-06.00.57:602][  8]LogModuleManager: Shutting down and abandoning module MovieScene (370)
+[2018.02.09-06.00.57:602][  8]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (368)
+[2018.02.09-06.00.57:602][  8]LogModuleManager: Shutting down and abandoning module LauncherPlatform (366)
+[2018.02.09-06.00.57:602][  8]LogModuleManager: Shutting down and abandoning module AnalyticsET (364)
+[2018.02.09-06.00.57:602][  8]LogModuleManager: Shutting down and abandoning module PortalServices (362)
+[2018.02.09-06.00.57:602][  8]LogModuleManager: Shutting down and abandoning module PortalRpc (360)
+[2018.02.09-06.00.57:602][  8]LogModuleManager: Shutting down and abandoning module MessagingRpc (358)
+[2018.02.09-06.00.57:602][  8]LogModuleManager: Shutting down and abandoning module AIModule (356)
+[2018.02.09-06.00.57:602][  8]LogModuleManager: Shutting down and abandoning module GameplayDebugger (355)
+[2018.02.09-06.00.57:603][  8]LogModuleManager: Shutting down and abandoning module AITestSuite (353)
+[2018.02.09-06.00.57:603][  8]LogModuleManager: Shutting down and abandoning module ProfilerService (350)
+[2018.02.09-06.00.57:690][  8]LogModuleManager: Shutting down and abandoning module TaskGraph (348)
+[2018.02.09-06.00.57:690][  8]LogModuleManager: Shutting down and abandoning module SteamVRController (346)
+[2018.02.09-06.00.57:690][  8]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (344)
+[2018.02.09-06.00.57:690][  8]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (342)
+[2018.02.09-06.00.57:690][  8]LogModuleManager: Shutting down and abandoning module OculusInput (340)
+[2018.02.09-06.00.57:690][  8]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (338)
+[2018.02.09-06.00.57:690][  8]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (336)
+[2018.02.09-06.00.57:690][  8]LogModuleManager: Shutting down and abandoning module CableComponent (334)
+[2018.02.09-06.00.57:690][  8]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (332)
+[2018.02.09-06.00.57:691][  8]LogModuleManager: Shutting down and abandoning module AndroidPermission (330)
+[2018.02.09-06.00.57:691][  8]LogModuleManager: Shutting down and abandoning module ActorSequence (326)
+[2018.02.09-06.00.57:691][  8]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (324)
+[2018.02.09-06.00.57:691][  8]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (322)
+[2018.02.09-06.00.57:691][  8]LogModuleManager: Shutting down and abandoning module MediaCompositing (320)
+[2018.02.09-06.00.57:691][  8]LogModuleManager: Shutting down and abandoning module HTML5Networking (318)
+[2018.02.09-06.00.57:691][  8]LogModuleManager: Shutting down and abandoning module AlembicImporter (316)
+[2018.02.09-06.00.57:691][  8]LogModuleManager: Shutting down and abandoning module AlembicLibrary (315)
+[2018.02.09-06.00.57:691][  8]LogModuleManager: Shutting down and abandoning module GeometryCache (314)
+[2018.02.09-06.00.57:691][  8]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (313)
+[2018.02.09-06.00.57:691][  8]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (308)
+[2018.02.09-06.00.57:691][  8]LogModuleManager: Shutting down and abandoning module PluginBrowser (306)
+[2018.02.09-06.00.57:692][  8]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (304)
+[2018.02.09-06.00.57:692][  8]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (302)
+[2018.02.09-06.00.57:692][  8]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (300)
+[2018.02.09-06.00.57:692][  8]LogModuleManager: Shutting down and abandoning module UObjectPlugin (298)
+[2018.02.09-06.00.57:692][  8]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (296)
+[2018.02.09-06.00.57:692][  8]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (294)
+[2018.02.09-06.00.57:692][  8]LogModuleManager: Shutting down and abandoning module GitSourceControl (292)
+[2018.02.09-06.00.57:692][  8]LogModuleManager: Shutting down and abandoning module SourceControl (291)
+[2018.02.09-06.00.57:692][  8]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (288)
+[2018.02.09-06.00.57:692][  8]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (286)
+[2018.02.09-06.00.57:693][  8]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (284)
+[2018.02.09-06.00.57:693][  8]LogModuleManager: Shutting down and abandoning module Paper2DEditor (282)
+[2018.02.09-06.00.57:693][  8]LogModuleManager: Shutting down and abandoning module MeshPaint (281)
+[2018.02.09-06.00.57:693][  8]LogModuleManager: Shutting down and abandoning module LevelEditor (279)
+[2018.02.09-06.00.57:695][  8]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (278)
+[2018.02.09-06.00.57:695][  8]LogModuleManager: Shutting down and abandoning module MainFrame (276)
+[2018.02.09-06.00.57:695][  8]LogModuleManager: Shutting down and abandoning module HotReload (275)
+[2018.02.09-06.00.57:696][  8]LogDirectoryWatcher: A directory notification for 'C:/Users/tugan.eritenel/Documents/git/learning_unreal/cpp_quickstart/Binaries/Win64' was aborted.
+[2018.02.09-06.00.57:697][  8]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (268)
+[2018.02.09-06.00.57:697][  8]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (266)
+[2018.02.09-06.00.57:697][  8]LogModuleManager: Shutting down and abandoning module PhysXVehicles (264)
+[2018.02.09-06.00.57:697][  8]LogModuleManager: Shutting down and abandoning module OculusEditor (262)
+[2018.02.09-06.00.57:697][  8]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (260)
+[2018.02.09-06.00.57:697][  8]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (258)
+[2018.02.09-06.00.57:697][  8]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (256)
+[2018.02.09-06.00.57:697][  8]LogModuleManager: Shutting down and abandoning module UdpMessaging (254)
+[2018.02.09-06.00.57:799][  8]LogModuleManager: Shutting down and abandoning module TcpMessaging (252)
+[2018.02.09-06.00.57:900][  8]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (250)
+[2018.02.09-06.00.57:900][  8]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (248)
+[2018.02.09-06.00.57:900][  8]LogModuleManager: Shutting down and abandoning module FacialAnimation (246)
+[2018.02.09-06.00.57:900][  8]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (244)
+[2018.02.09-06.00.57:900][  8]LogModuleManager: Shutting down and abandoning module GraphEditor (243)
+[2018.02.09-06.00.57:900][  8]LogModuleManager: Shutting down and abandoning module ContentBrowser (241)
+[2018.02.09-06.00.57:902][  8]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (238)
+[2018.02.09-06.00.57:902][  8]LogModuleManager: Shutting down and abandoning module Paper2D (236)
+[2018.02.09-06.00.57:902][  8]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (234)
+[2018.02.09-06.00.57:902][  8]LogModuleManager: Shutting down and abandoning module WmfMedia (232)
+[2018.02.09-06.00.57:907][  8]LogModuleManager: Shutting down and abandoning module ImgMedia (230)
+[2018.02.09-06.00.57:907][  8]LogModuleManager: Shutting down and abandoning module PacketHandler (228)
+[2018.02.09-06.00.57:907][  8]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (226)
+[2018.02.09-06.00.57:907][  8]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (224)
+[2018.02.09-06.00.57:907][  8]LogModuleManager: Shutting down and abandoning module MediaAssets (222)
+[2018.02.09-06.00.57:907][  8]LogModuleManager: Shutting down and abandoning module Media (221)
+[2018.02.09-06.00.57:914][  8]LogModuleManager: Shutting down and abandoning module Overlay (218)
+[2018.02.09-06.00.57:914][  8]LogModuleManager: Shutting down and abandoning module OverlayEditor (217)
+[2018.02.09-06.00.57:914][  8]LogModuleManager: Shutting down and abandoning module VREditor (214)
+[2018.02.09-06.00.57:914][  8]LogModuleManager: Shutting down and abandoning module StringTableEditor (212)
+[2018.02.09-06.00.57:914][  8]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (210)
+[2018.02.09-06.00.57:914][  8]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (208)
+[2018.02.09-06.00.57:914][  8]LogModuleManager: Shutting down and abandoning module FunctionalTesting (206)
+[2018.02.09-06.00.57:915][  8]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (204)
+[2018.02.09-06.00.57:915][  8]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (203)
+[2018.02.09-06.00.57:915][  8]LogModuleManager: Shutting down and abandoning module UMG (200)
+[2018.02.09-06.00.57:915][  8]LogModuleManager: Shutting down and abandoning module UMGEditor (199)
+[2018.02.09-06.00.57:915][  8]LogModuleManager: Shutting down and abandoning module Sequencer (198)
+[2018.02.09-06.00.57:915][  8]LogModuleManager: Shutting down and abandoning module MessageLog (195)
+[2018.02.09-06.00.57:915][  8]LogModuleManager: Shutting down and abandoning module SlateReflector (190)
+[2018.02.09-06.00.57:915][  8]LogModuleManager: Shutting down and abandoning module Slate (188)
+[2018.02.09-06.00.57:915][  8]LogModuleManager: Shutting down and abandoning module EditorStyle (186)
+[2018.02.09-06.00.57:922][  8]LogModuleManager: Shutting down and abandoning module MRMesh (184)
+[2018.02.09-06.00.57:922][  8]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (182)
+[2018.02.09-06.00.57:922][  8]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (180)
+[2018.02.09-06.00.57:922][  8]LogModuleManager: Shutting down and abandoning module XAudio2 (178)
+[2018.02.09-06.00.57:922][  8]LogModuleManager: Shutting down and abandoning module Networking (176)
+[2018.02.09-06.00.57:922][  8]LogModuleManager: Shutting down and abandoning module Core (172)
+[2018.02.09-06.00.57:923][  8]LogModuleManager: Shutting down and abandoning module LevelSequence (168)
+[2018.02.09-06.00.57:923][  8]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (166)
+[2018.02.09-06.00.57:926][  8]LogModuleManager: Shutting down and abandoning module KismetCompiler (164)
+[2018.02.09-06.00.57:926][  8]LogModuleManager: Shutting down and abandoning module MeshUtilities (162)
+[2018.02.09-06.00.57:926][  8]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (161)
+[2018.02.09-06.00.57:926][  8]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (160)
+[2018.02.09-06.00.57:926][  8]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (159)
+[2018.02.09-06.00.57:926][  8]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (157)
+[2018.02.09-06.00.57:926][  8]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (155)
+[2018.02.09-06.00.57:926][  8]LogModuleManager: Shutting down and abandoning module MaterialBaking (151)
+[2018.02.09-06.00.57:926][  8]LogModuleManager: Shutting down and abandoning module DerivedDataCache (148)
+[2018.02.09-06.00.57:971][  8]LogDerivedDataCache: Shutdown
+[2018.02.09-06.00.57:971][  8]LogModuleManager: Shutting down and abandoning module TargetPlatform (146)
+[2018.02.09-06.00.57:971][  8]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (145)
+[2018.02.09-06.00.57:971][  8]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (143)
+[2018.02.09-06.00.57:971][  8]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (141)
+[2018.02.09-06.00.57:972][  8]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (139)
+[2018.02.09-06.00.57:972][  8]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (137)
+[2018.02.09-06.00.57:972][  8]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (135)
+[2018.02.09-06.00.57:972][  8]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (133)
+[2018.02.09-06.00.57:972][  8]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (131)
+[2018.02.09-06.00.57:972][  8]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (129)
+[2018.02.09-06.00.57:972][  8]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (127)
+[2018.02.09-06.00.57:972][  8]LogModuleManager: Shutting down and abandoning module ImageWrapper (126)
+[2018.02.09-06.00.57:972][  8]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (123)
+[2018.02.09-06.00.57:972][  8]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (121)
+[2018.02.09-06.00.57:972][  8]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (119)
+[2018.02.09-06.00.57:972][  8]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (117)
+[2018.02.09-06.00.57:973][  8]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (115)
+[2018.02.09-06.00.57:973][  8]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (113)
+[2018.02.09-06.00.57:973][  8]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (111)
+[2018.02.09-06.00.57:973][  8]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (109)
+[2018.02.09-06.00.57:973][  8]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (107)
+[2018.02.09-06.00.57:973][  8]LogModuleManager: Shutting down and abandoning module Messaging (105)
+[2018.02.09-06.00.57:973][  8]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (103)
+[2018.02.09-06.00.57:973][  8]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (101)
+[2018.02.09-06.00.57:973][  8]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (99)
+[2018.02.09-06.00.57:973][  8]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (97)
+[2018.02.09-06.00.57:973][  8]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (95)
+[2018.02.09-06.00.57:974][  8]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (93)
+[2018.02.09-06.00.57:974][  8]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (91)
+[2018.02.09-06.00.57:974][  8]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (89)
+[2018.02.09-06.00.57:974][  8]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (87)
+[2018.02.09-06.00.57:974][  8]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (85)
+[2018.02.09-06.00.57:974][  8]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (83)
+[2018.02.09-06.00.57:974][  8]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (81)
+[2018.02.09-06.00.57:974][  8]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (79)
+[2018.02.09-06.00.57:974][  8]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (77)
+[2018.02.09-06.00.57:974][  8]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (75)
+[2018.02.09-06.00.57:975][  8]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (73)
+[2018.02.09-06.00.57:975][  8]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (71)
+[2018.02.09-06.00.57:975][  8]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (69)
+[2018.02.09-06.00.57:975][  8]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (67)
+[2018.02.09-06.00.57:975][  8]LogModuleManager: Shutting down and abandoning module InputCore (64)
+[2018.02.09-06.00.57:975][  8]LogModuleManager: Shutting down and abandoning module Settings (62)
+[2018.02.09-06.00.57:975][  8]LogModuleManager: Shutting down and abandoning module PhysXCooking (60)
+[2018.02.09-06.00.57:975][  8]LogModuleManager: Shutting down and abandoning module SteamVR (58)
+[2018.02.09-06.00.57:975][  8]LogModuleManager: Shutting down and abandoning module OculusHMD (56)
+[2018.02.09-06.00.57:976][  8]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (54)
+[2018.02.09-06.00.57:976][  8]LogModuleManager: Shutting down and abandoning module AppleARKit (52)
+[2018.02.09-06.00.57:976][  8]LogModuleManager: Shutting down and abandoning module AugmentedReality (51)
+[2018.02.09-06.00.57:976][  8]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (48)
+[2018.02.09-06.00.57:976][  8]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (44)
+[2018.02.09-06.00.57:976][  8]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2018.02.09-06.00.57:976][  8]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2018.02.09-06.00.57:976][  8]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2018.02.09-06.00.57:976][  8]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B9A75B484-41BC-A9BC-6520-509671AE0E23%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.18.3-3832480%2B%2B%2BUE4%2BRelease-4.18&UserID=abf733094108fa632c8567b3e7c052db%7Cef080a5a79b94ddabdde3e4fe2bb43b4%7Caa09e670-51d9-430f-8d78-adaa0573bc06&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2018.02.09-06.00.57:992][  8]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2018.02.09-06.00.57:996][  8]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2018.02.09-06.00.57:996][  8]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2018.02.09-06.00.57:996][  8]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2018.02.09-06.00.57:996][  8]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2018.02.09-06.00.57:996][  8]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2018.02.09-06.00.57:996][  8]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2018.02.09-06.00.57:996][  8]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2018.02.09-06.00.57:998][  8]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2018.02.09-06.00.57:998][  8]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2018.02.09-06.00.57:999][  8]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2018.02.09-06.00.57:999][  8]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2018.02.09-06.00.57:999][  8]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2018.02.09-06.00.57:999][  8]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2018.02.09-06.00.57:999][  8]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2018.02.09-06.00.57:999][  8]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2018.02.09-06.00.57:999][  8]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2018.02.09-06.00.57:999][  8]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2018.02.09-06.00.57:999][  8]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2018.02.09-06.00.58:008][  8]LogExit: Exiting.
+[2018.02.09-06.00.58:036][  8]Log file closed, 02/09/18 09:00:58

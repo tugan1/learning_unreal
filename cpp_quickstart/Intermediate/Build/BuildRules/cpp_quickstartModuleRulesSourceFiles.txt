@@ -1,0 +1,3 @@
+C:\Users\tugan.eritenel\Documents\git\learning_unreal\cpp_quickstart\Source\cpp_quickstart\cpp_quickstart.Build.cs
+C:\Users\tugan.eritenel\Documents\git\learning_unreal\cpp_quickstart\Source\cpp_quickstart.Target.cs
+C:\Users\tugan.eritenel\Documents\git\learning_unreal\cpp_quickstart\Source\cpp_quickstartEditor.Target.cs
