@@ -4,7 +4,7 @@
 	<ItemGroup>
 		<None Include="..\..\cpp_quickstart.uproject" />
 		<Filter Include="Source">
-			<UniqueIdentifier>{53371431-ED19-4B3A-A200-49F2590478FF}</UniqueIdentifier>
+			<UniqueIdentifier>{35A40CE6-C7EF-445F-996A-95E3CA824699}</UniqueIdentifier>
 		</Filter>
 		<None Include="..\..\Source\cpp_quickstart.Target.cs">
 			<Filter>Source</Filter>
@@ -13,7 +13,7 @@
 			<Filter>Source</Filter>
 		</None >
 		<Filter Include="Config">
-			<UniqueIdentifier>{9D53C56B-1149-4B9D-B0F1-8BA068CBA30E}</UniqueIdentifier>
+			<UniqueIdentifier>{C37A3B74-808A-4F0E-8A90-09A4BFBB29B0}</UniqueIdentifier>
 		</Filter>
 		<None Include="..\..\Config\DefaultEditor.ini">
 			<Filter>Config</Filter>
@@ -25,8 +25,14 @@
 			<Filter>Config</Filter>
 		</None >
 		<Filter Include="Source\cpp_quickstart">
-			<UniqueIdentifier>{BBC4C6C3-AC19-4530-8A86-EEA2E81AFD75}</UniqueIdentifier>
+			<UniqueIdentifier>{6AF9C363-C45F-4C0D-84A6-E38B9B41546D}</UniqueIdentifier>
 		</Filter>
+		<ClCompile Include="..\..\Source\cpp_quickstart\Countdown.cpp">
+			<Filter>Source\cpp_quickstart</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\cpp_quickstart\Countdown.h">
+			<Filter>Source\cpp_quickstart</Filter>
+		</ClInclude >
 		<None Include="..\..\Source\cpp_quickstart\cpp_quickstart.Build.cs">
 			<Filter>Source\cpp_quickstart</Filter>
 		</None >

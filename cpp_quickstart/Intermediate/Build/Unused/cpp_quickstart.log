@@ -1,15 +1,33 @@
 ﻿  Using 'git status' to determine working set for adaptive non-unity build.
-  Creating makefile for hot reloading cpp_quickstartEditor (modules to compile have changed)
   Compiling game modules for hot reload
-  Parsing headers for cpp_quickstartEditor
-    Running UnrealHeaderTool "C:\Users\tugan.eritenel\Documents\git\learning_unreal\cpp_quickstart\cpp_quickstart.uproject" "C:\Users\tugan.eritenel\Documents\git\learning_unreal\cpp_quickstart\Intermediate\Build\Win64\cpp_quickstartEditor\Development\cpp_quickstartEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
-  Reflection code generated for cpp_quickstartEditor in 7.436363 seconds
   Performing 4 actions (4 in parallel)
-  FloatingActor.cpp
-  FloatingActor.gen.cpp
-  [3/4] Link UE4Editor-cpp_quickstart-8298.dll
-  [4/4] Link UE4Editor-cpp_quickstart-8298.lib
-     Creating library C:\Users\tugan.eritenel\Documents\git\learning_unreal\cpp_quickstart\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-cpp_quickstart-8298.lib and object C:\Users\tugan.eritenel\Documents\git\learning_unreal\cpp_quickstart\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-cpp_quickstart-8298.exp
-     Creating library C:\Users\tugan.eritenel\Documents\git\learning_unreal\cpp_quickstart\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-cpp_quickstart-8298.suppressed.lib and object C:\Users\tugan.eritenel\Documents\git\learning_unreal\cpp_quickstart\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-cpp_quickstart-8298.suppressed.exp
-  Deploying cpp_quickstartEditor Win64 Development...
-  Total build time: 13.75 seconds (Local executor: 1.12 seconds)
+  Countdown.cpp
+  Countdown.gen.cpp
+c:\users\tugan.eritenel\documents\git\learning_unreal\cpp_quickstart\source\cpp_quickstart\Countdown.h(28): error C2143: syntax error: missing ';' before '*'
+c:\users\tugan.eritenel\documents\git\learning_unreal\cpp_quickstart\source\cpp_quickstart\Countdown.h(28): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\tugan.eritenel\documents\git\learning_unreal\cpp_quickstart\source\cpp_quickstart\Countdown.h(28): error C2238: unexpected token(s) preceding ';'
+C:\Users\tugan.eritenel\Documents\git\learning_unreal\cpp_quickstart\Source\cpp_quickstart\Countdown.cpp(12): error C2065: 'CountdownText': undeclared identifier
+C:\Users\tugan.eritenel\Documents\git\learning_unreal\cpp_quickstart\Source\cpp_quickstart\Countdown.cpp(12): error C2065: 'UTextRenderComponent': undeclared identifier
+C:\Users\tugan.eritenel\Documents\git\learning_unreal\cpp_quickstart\Source\cpp_quickstart\Countdown.cpp(12): error C2672: 'UObject::CreateDefaultSubobject': no matching overloaded function found
+C:\Users\tugan.eritenel\Documents\git\learning_unreal\cpp_quickstart\Source\cpp_quickstart\Countdown.cpp(12): error C2974: 'UObject::CreateDefaultSubobject': invalid template argument for 'TReturnType', type expected
+  C:\Program Files\Epic Games\UE_4.18\Engine\Source\Runtime\CoreUObject\Public\UObject/Object.h(95): note: see declaration of 'UObject::CreateDefaultSubobject'
+C:\Users\tugan.eritenel\Documents\git\learning_unreal\cpp_quickstart\Source\cpp_quickstart\Countdown.cpp(13): error C2065: 'CountdownText': undeclared identifier
+C:\Users\tugan.eritenel\Documents\git\learning_unreal\cpp_quickstart\Source\cpp_quickstart\Countdown.cpp(13): error C2227: left of '->SetHorizontalAlignment' must point to class/struct/union/generic type
+  C:\Users\tugan.eritenel\Documents\git\learning_unreal\cpp_quickstart\Source\cpp_quickstart\Countdown.cpp(13): note: type is 'unknown-type'
+C:\Users\tugan.eritenel\Documents\git\learning_unreal\cpp_quickstart\Source\cpp_quickstart\Countdown.cpp(13): error C2065: 'EHTA_Center': undeclared identifier
+C:\Users\tugan.eritenel\Documents\git\learning_unreal\cpp_quickstart\Source\cpp_quickstart\Countdown.cpp(14): error C2065: 'CountdownText': undeclared identifier
+C:\Users\tugan.eritenel\Documents\git\learning_unreal\cpp_quickstart\Source\cpp_quickstart\Countdown.cpp(14): error C2227: left of '->SetWorldSize' must point to class/struct/union/generic type
+  C:\Users\tugan.eritenel\Documents\git\learning_unreal\cpp_quickstart\Source\cpp_quickstart\Countdown.cpp(14): note: type is 'unknown-type'
+C:\Users\tugan.eritenel\Documents\git\learning_unreal\cpp_quickstart\Source\cpp_quickstart\Countdown.cpp(15): error C2065: 'CountdownText': undeclared identifier
+C:\Users\tugan.eritenel\Documents\git\learning_unreal\cpp_quickstart\Source\cpp_quickstart\Countdown.cpp(35): error C2065: 'CountdownText': undeclared identifier
+C:\Users\tugan.eritenel\Documents\git\learning_unreal\cpp_quickstart\Source\cpp_quickstart\Countdown.cpp(35): error C2227: left of '->SetText' must point to class/struct/union/generic type
+  C:\Users\tugan.eritenel\Documents\git\learning_unreal\cpp_quickstart\Source\cpp_quickstart\Countdown.cpp(35): note: type is 'unknown-type'
+C:\Users\tugan.eritenel\Documents\git\learning_unreal\cpp_quickstart\Source\cpp_quickstart\Countdown.cpp(51): error C2065: 'CountdownText': undeclared identifier
+C:\Users\tugan.eritenel\Documents\git\learning_unreal\cpp_quickstart\Source\cpp_quickstart\Countdown.cpp(51): error C2227: left of '->SetText' must point to class/struct/union/generic type
+  C:\Users\tugan.eritenel\Documents\git\learning_unreal\cpp_quickstart\Source\cpp_quickstart\Countdown.cpp(51): note: type is 'unknown-type'
+C:\Users\tugan.eritenel\Documents\git\learning_unreal\cpp_quickstart\Source\cpp_quickstart\Countdown.h(28): error C2143: syntax error: missing ';' before '*'
+C:\Users\tugan.eritenel\Documents\git\learning_unreal\cpp_quickstart\Source\cpp_quickstart\Countdown.h(28): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\tugan.eritenel\Documents\git\learning_unreal\cpp_quickstart\Source\cpp_quickstart\Countdown.h(28): error C2238: unexpected token(s) preceding ';'
+ERROR : UBT error : Failed to produce item: C:\Users\tugan.eritenel\Documents\git\learning_unreal\cpp_quickstart\Binaries\Win64\UE4Editor-cpp_quickstart-9966.dll
+  Total build time: 1.39 seconds (Local executor: 0.00 seconds)
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.MakeFile.Targets(44,5): error MSB3075: The command ""C:\Program Files\Epic Games\UE_4.18\Engine\Build\BatchFiles\Build.bat" cpp_quickstartEditor Win64 Development "C:\Users\tugan.eritenel\Documents\git\learning_unreal\cpp_quickstart\cpp_quickstart.uproject" -waitmutex" exited with code 5. Please verify that you have sufficient rights to run this command.

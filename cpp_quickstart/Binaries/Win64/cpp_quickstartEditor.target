@@ -16,15 +16,15 @@
 	},
 	"BuildProducts": [
 		{
-			"Path": "$(ProjectDir)/Binaries/Win64/UE4Editor-cpp_quickstart-8298.dll",
+			"Path": "$(ProjectDir)/Binaries/Win64/UE4Editor-cpp_quickstart-6196.dll",
 			"Type": "DynamicLibrary"
 		},
 		{
-			"Path": "$(ProjectDir)/Binaries/Win64/UE4Editor-cpp_quickstart-8298.pdb",
+			"Path": "$(ProjectDir)/Binaries/Win64/UE4Editor-cpp_quickstart-6196.pdb",
 			"Type": "SymbolFile"
 		},
 		{
-			"Path": "$(ProjectDir)/Intermediate/Build/Win64/UE4Editor/Development/UE4Editor-cpp_quickstart-8298.lib",
+			"Path": "$(ProjectDir)/Intermediate/Build/Win64/UE4Editor/Development/UE4Editor-cpp_quickstart-6196.lib",
 			"Type": "ImportLibrary"
 		},
 		{

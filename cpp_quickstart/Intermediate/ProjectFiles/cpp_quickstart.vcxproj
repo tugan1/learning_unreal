@@ -413,6 +413,8 @@
 		<None Include="..\..\Config\DefaultEditor.ini" />
 		<None Include="..\..\Config\DefaultEngine.ini" />
 		<None Include="..\..\Config\DefaultGame.ini" />
+		<ClCompile Include="..\..\Source\cpp_quickstart\Countdown.cpp" />
+		<ClInclude Include="..\..\Source\cpp_quickstart\Countdown.h" />
 		<None Include="..\..\Source\cpp_quickstart\cpp_quickstart.Build.cs" />
 		<ClCompile Include="..\..\Source\cpp_quickstart\cpp_quickstart.cpp" />
 		<ClInclude Include="..\..\Source\cpp_quickstart\cpp_quickstart.h" />

@@ -19,8 +19,8 @@ void EmptyLinkFunctionForGeneratedCodecpp_quickstart_init() {}
 			static const UE4CodeGen_Private::FPackageParams PackageParams = {
 				"/Script/cpp_quickstart",
 				PKG_CompiledIn | 0x00000000,
-				0x33B6E492,
-				0x96CC9E07,
+				0xD222EC73,
+				0x170E16CF,
 				nullptr, 0,
 				METADATA_PARAMS(nullptr, 0)
 			};
